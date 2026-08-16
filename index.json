@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T07:56:39.512Z",
+  "generatedAt": "2026-08-16T23:52:33.600Z",
   "packs": [
     {
       "id": "world-2026-27",
@@ -30,6 +30,24 @@
           "clubCount": 15
         },
         {
+          "id": "national-1",
+          "name": "National 1",
+          "tier": 3,
+          "clubCount": 16
+        },
+        {
+          "id": "national-2",
+          "name": "National 2",
+          "tier": 4,
+          "clubCount": 16
+        },
+        {
+          "id": "national-3",
+          "name": "National 3",
+          "tier": 5,
+          "clubCount": 16
+        },
+        {
           "id": "pro-league",
           "name": "Pro League",
           "tier": 1,
@@ -51,6 +69,18 @@
           "id": "bundesliga",
           "name": "Bundesliga",
           "tier": 1,
+          "clubCount": 18
+        },
+        {
+          "id": "oberliga",
+          "name": "Oberliga",
+          "tier": 5,
+          "clubCount": 18
+        },
+        {
+          "id": "regionalliga",
+          "name": "Regionalliga",
+          "tier": 4,
           "clubCount": 18
         },
         {
@@ -102,6 +132,18 @@
           "clubCount": 20
         },
         {
+          "id": "segunda-rfef",
+          "name": "Segunda Federación",
+          "tier": 4,
+          "clubCount": 18
+        },
+        {
+          "id": "tercera",
+          "name": "Tercera Federación",
+          "tier": 5,
+          "clubCount": 18
+        },
+        {
           "id": "ligue-1",
           "name": "Ligue 1",
           "tier": 1,
@@ -114,10 +156,34 @@
           "clubCount": 18
         },
         {
+          "id": "national-2",
+          "name": "National 2",
+          "tier": 4,
+          "clubCount": 16
+        },
+        {
+          "id": "national-3",
+          "name": "National 3",
+          "tier": 5,
+          "clubCount": 14
+        },
+        {
           "id": "national",
           "name": "Ligue 3",
           "tier": 3,
           "clubCount": 18
+        },
+        {
+          "id": "delta-ethniki",
+          "name": "A' Katigoria EPS Athinon",
+          "tier": 4,
+          "clubCount": 16
+        },
+        {
+          "id": "gamma-ethniki",
+          "name": "Gamma Ethniki",
+          "tier": 3,
+          "clubCount": 12
         },
         {
           "id": "super-league-2",
@@ -132,6 +198,24 @@
           "clubCount": 14
         },
         {
+          "id": "topiko",
+          "name": "B' Katigoria EPS Athinon",
+          "tier": 5,
+          "clubCount": 16
+        },
+        {
+          "id": "cetvrta-nl",
+          "name": "Četvrta NL",
+          "tier": 5,
+          "clubCount": 16
+        },
+        {
+          "id": "druga-nl",
+          "name": "Druga NL",
+          "tier": 3,
+          "clubCount": 16
+        },
+        {
           "id": "hnl",
           "name": "HNL",
           "tier": 1,
@@ -142,6 +226,18 @@
           "name": "Prva NL",
           "tier": 2,
           "clubCount": 16
+        },
+        {
+          "id": "treca-nl",
+          "name": "Treća NL",
+          "tier": 4,
+          "clubCount": 16
+        },
+        {
+          "id": "eccellenza",
+          "name": "Eccellenza",
+          "tier": 5,
+          "clubCount": 18
         },
         {
           "id": "serie-a",
@@ -162,6 +258,18 @@
           "clubCount": 20
         },
         {
+          "id": "serie-d",
+          "name": "Serie D",
+          "tier": 4,
+          "clubCount": 18
+        },
+        {
+          "id": "derde-divisie",
+          "name": "Derde Divisie",
+          "tier": 4,
+          "clubCount": 18
+        },
+        {
           "id": "eerste-divisie",
           "name": "Eerste Divisie",
           "tier": 2,
@@ -172,6 +280,36 @@
           "name": "Eredivisie",
           "tier": 1,
           "clubCount": 18
+        },
+        {
+          "id": "hoofdklasse",
+          "name": "Hoofdklasse",
+          "tier": 5,
+          "clubCount": 16
+        },
+        {
+          "id": "tweede-divisie",
+          "name": "Tweede Divisie",
+          "tier": 3,
+          "clubCount": 18
+        },
+        {
+          "id": "campeonato-de-portugal",
+          "name": "Campeonato de Portugal",
+          "tier": 4,
+          "clubCount": 15
+        },
+        {
+          "id": "distrital",
+          "name": "Distrital",
+          "tier": 5,
+          "clubCount": 16
+        },
+        {
+          "id": "liga-3",
+          "name": "Liga 3",
+          "tier": 3,
+          "clubCount": 20
         },
         {
           "id": "liga-portugal-2",
@@ -189,6 +327,24 @@
           "id": "allsvenskan",
           "name": "Allsvenskan",
           "tier": 1,
+          "clubCount": 16
+        },
+        {
+          "id": "division-2",
+          "name": "Division 2",
+          "tier": 4,
+          "clubCount": 14
+        },
+        {
+          "id": "division-3",
+          "name": "Division 3",
+          "tier": 5,
+          "clubCount": 12
+        },
+        {
+          "id": "ettan",
+          "name": "Ettan",
+          "tier": 3,
           "clubCount": 16
         },
         {
@@ -247,16 +403,16 @@
         }
       ],
       "stats": {
-        "clubs": 688,
-        "players": 18236,
-        "photos": 16454
+        "clubs": 1111,
+        "players": 24268,
+        "photos": 18301
       },
       "core": {
         "file": "world-2026-27-core.json.gz",
-        "bytes": 1523640
+        "bytes": 2000581
       },
       "images": null,
-      "updatedAt": "2026-08-16T07:56:39.090Z"
+      "updatedAt": "2026-08-16T23:52:33.075Z"
     },
     {
       "id": "be-2026-27",
@@ -273,6 +429,24 @@
           "clubCount": 15
         },
         {
+          "id": "national-1",
+          "name": "National 1",
+          "tier": 3,
+          "clubCount": 16
+        },
+        {
+          "id": "national-2",
+          "name": "National 2",
+          "tier": 4,
+          "clubCount": 16
+        },
+        {
+          "id": "national-3",
+          "name": "National 3",
+          "tier": 5,
+          "clubCount": 16
+        },
+        {
           "id": "pro-league",
           "name": "Pro League",
           "tier": 1,
@@ -280,18 +454,18 @@
         }
       ],
       "stats": {
-        "clubs": 33,
-        "clubsWithSquad": 33,
-        "players": 915,
-        "photos": 847
+        "clubs": 81,
+        "clubsWithSquad": 64,
+        "players": 1649,
+        "photos": 1093
       },
       "core": {
         "file": "be-2026-27-core.json.gz",
-        "bytes": 78359
+        "bytes": 137481
       },
       "images": {
         "file": "be-2026-27-images.tar",
-        "bytes": 17562624,
+        "bytes": 24547840,
         "optional": true,
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/be-2026-27-images.tar"
       },
@@ -322,21 +496,33 @@
           "name": "Bundesliga",
           "tier": 1,
           "clubCount": 18
+        },
+        {
+          "id": "oberliga",
+          "name": "Oberliga",
+          "tier": 5,
+          "clubCount": 18
+        },
+        {
+          "id": "regionalliga",
+          "name": "Regionalliga",
+          "tier": 4,
+          "clubCount": 18
         }
       ],
       "stats": {
-        "clubs": 56,
-        "clubsWithSquad": 56,
-        "players": 1605,
-        "photos": 1579
+        "clubs": 92,
+        "clubsWithSquad": 74,
+        "players": 2078,
+        "photos": 1969
       },
       "core": {
         "file": "de-2026-27-core.json.gz",
-        "bytes": 141085
+        "bytes": 181734
       },
       "images": {
         "file": "de-2026-27-images.tar",
-        "bytes": 23048192,
+        "bytes": 27538432,
         "optional": true,
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/de-2026-27-images.tar"
       },
@@ -424,21 +610,33 @@
           "name": "Primera Federación",
           "tier": 3,
           "clubCount": 20
+        },
+        {
+          "id": "segunda-rfef",
+          "name": "Segunda Federación",
+          "tier": 4,
+          "clubCount": 18
+        },
+        {
+          "id": "tercera",
+          "name": "Tercera Federación",
+          "tier": 5,
+          "clubCount": 18
         }
       ],
       "stats": {
-        "clubs": 62,
-        "clubsWithSquad": 62,
-        "players": 1495,
-        "photos": 1316
+        "clubs": 98,
+        "clubsWithSquad": 80,
+        "players": 1887,
+        "photos": 1416
       },
       "core": {
         "file": "es-2026-27-core.json.gz",
-        "bytes": 122301
+        "bytes": 153423
       },
       "images": {
         "file": "es-2026-27-images.tar",
-        "bytes": 30627328,
+        "bytes": 34751488,
         "optional": true,
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/es-2026-27-images.tar"
       },
@@ -465,6 +663,18 @@
           "clubCount": 18
         },
         {
+          "id": "national-2",
+          "name": "National 2",
+          "tier": 4,
+          "clubCount": 16
+        },
+        {
+          "id": "national-3",
+          "name": "National 3",
+          "tier": 5,
+          "clubCount": 14
+        },
+        {
           "id": "national",
           "name": "Ligue 3",
           "tier": 3,
@@ -472,18 +682,18 @@
         }
       ],
       "stats": {
-        "clubs": 54,
-        "clubsWithSquad": 54,
-        "players": 1367,
-        "photos": 1238
+        "clubs": 84,
+        "clubsWithSquad": 70,
+        "players": 1735,
+        "photos": 1412
       },
       "core": {
         "file": "fr-2026-27-core.json.gz",
-        "bytes": 121147
+        "bytes": 152521
       },
       "images": {
         "file": "fr-2026-27-images.tar",
-        "bytes": 31837184,
+        "bytes": 36859392,
         "optional": true,
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/fr-2026-27-images.tar"
       },
@@ -498,6 +708,18 @@
       "version": "0.1.0",
       "leagues": [
         {
+          "id": "delta-ethniki",
+          "name": "A' Katigoria EPS Athinon",
+          "tier": 4,
+          "clubCount": 16
+        },
+        {
+          "id": "gamma-ethniki",
+          "name": "Gamma Ethniki",
+          "tier": 3,
+          "clubCount": 12
+        },
+        {
           "id": "super-league-2",
           "name": "Super League 2",
           "tier": 2,
@@ -508,21 +730,27 @@
           "name": "Super League",
           "tier": 1,
           "clubCount": 14
+        },
+        {
+          "id": "topiko",
+          "name": "B' Katigoria EPS Athinon",
+          "tier": 5,
+          "clubCount": 16
         }
       ],
       "stats": {
-        "clubs": 30,
-        "clubsWithSquad": 30,
-        "players": 809,
-        "photos": 716
+        "clubs": 74,
+        "clubsWithSquad": 42,
+        "players": 1010,
+        "photos": 758
       },
       "core": {
         "file": "gr-2026-27-core.json.gz",
-        "bytes": 65892
+        "bytes": 83303
       },
       "images": {
         "file": "gr-2026-27-images.tar",
-        "bytes": 27276800,
+        "bytes": 29865984,
         "optional": true,
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/gr-2026-27-images.tar"
       },
@@ -537,6 +765,18 @@
       "version": "0.1.0",
       "leagues": [
         {
+          "id": "cetvrta-nl",
+          "name": "Četvrta NL",
+          "tier": 5,
+          "clubCount": 16
+        },
+        {
+          "id": "druga-nl",
+          "name": "Druga NL",
+          "tier": 3,
+          "clubCount": 16
+        },
+        {
           "id": "hnl",
           "name": "HNL",
           "tier": 1,
@@ -547,21 +787,27 @@
           "name": "Prva NL",
           "tier": 2,
           "clubCount": 16
+        },
+        {
+          "id": "treca-nl",
+          "name": "Treća NL",
+          "tier": 4,
+          "clubCount": 16
         }
       ],
       "stats": {
-        "clubs": 26,
-        "clubsWithSquad": 26,
-        "players": 713,
-        "photos": 482
+        "clubs": 74,
+        "clubsWithSquad": 58,
+        "players": 1622,
+        "photos": 605
       },
       "core": {
         "file": "hr-2026-27-core.json.gz",
-        "bytes": 57584
+        "bytes": 121118
       },
       "images": {
         "file": "hr-2026-27-images.tar",
-        "bytes": 12640768,
+        "bytes": 15301632,
         "optional": true,
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/hr-2026-27-images.tar"
       },
@@ -575,6 +821,12 @@
       "name": "İtalya Paketi 2026-27",
       "version": "0.1.0",
       "leagues": [
+        {
+          "id": "eccellenza",
+          "name": "Eccellenza",
+          "tier": 5,
+          "clubCount": 18
+        },
         {
           "id": "serie-a",
           "name": "Serie A",
@@ -592,21 +844,27 @@
           "name": "Serie C",
           "tier": 3,
           "clubCount": 20
+        },
+        {
+          "id": "serie-d",
+          "name": "Serie D",
+          "tier": 4,
+          "clubCount": 18
         }
       ],
       "stats": {
-        "clubs": 60,
-        "clubsWithSquad": 60,
-        "players": 1769,
-        "photos": 1574
+        "clubs": 96,
+        "clubsWithSquad": 78,
+        "players": 2231,
+        "photos": 1735
       },
       "core": {
         "file": "it-2026-27-core.json.gz",
-        "bytes": 145520
+        "bytes": 182547
       },
       "images": {
         "file": "it-2026-27-images.tar",
-        "bytes": 22647808,
+        "bytes": 27465216,
         "optional": true,
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/it-2026-27-images.tar"
       },
@@ -621,6 +879,12 @@
       "version": "0.1.0",
       "leagues": [
         {
+          "id": "derde-divisie",
+          "name": "Derde Divisie",
+          "tier": 4,
+          "clubCount": 18
+        },
+        {
           "id": "eerste-divisie",
           "name": "Eerste Divisie",
           "tier": 2,
@@ -631,21 +895,33 @@
           "name": "Eredivisie",
           "tier": 1,
           "clubCount": 18
+        },
+        {
+          "id": "hoofdklasse",
+          "name": "Hoofdklasse",
+          "tier": 5,
+          "clubCount": 16
+        },
+        {
+          "id": "tweede-divisie",
+          "name": "Tweede Divisie",
+          "tier": 3,
+          "clubCount": 18
         }
       ],
       "stats": {
-        "clubs": 38,
-        "clubsWithSquad": 38,
-        "players": 975,
-        "photos": 915
+        "clubs": 90,
+        "clubsWithSquad": 74,
+        "players": 1836,
+        "photos": 1140
       },
       "core": {
         "file": "nl-2026-27-core.json.gz",
-        "bytes": 82414
+        "bytes": 149483
       },
       "images": {
         "file": "nl-2026-27-images.tar",
-        "bytes": 14608384,
+        "bytes": 19249664,
         "optional": true,
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/nl-2026-27-images.tar"
       },
@@ -660,6 +936,24 @@
       "version": "0.1.0",
       "leagues": [
         {
+          "id": "campeonato-de-portugal",
+          "name": "Campeonato de Portugal",
+          "tier": 4,
+          "clubCount": 15
+        },
+        {
+          "id": "distrital",
+          "name": "Distrital",
+          "tier": 5,
+          "clubCount": 16
+        },
+        {
+          "id": "liga-3",
+          "name": "Liga 3",
+          "tier": 3,
+          "clubCount": 20
+        },
+        {
           "id": "liga-portugal-2",
           "name": "Liga Portugal 2",
           "tier": 2,
@@ -673,18 +967,18 @@
         }
       ],
       "stats": {
-        "clubs": 36,
-        "clubsWithSquad": 36,
-        "players": 1028,
-        "photos": 904
+        "clubs": 87,
+        "clubsWithSquad": 71,
+        "players": 1979,
+        "photos": 1213
       },
       "core": {
         "file": "pt-2026-27-core.json.gz",
-        "bytes": 83606
+        "bytes": 160023
       },
       "images": {
         "file": "pt-2026-27-images.tar",
-        "bytes": 15250432,
+        "bytes": 22919168,
         "optional": true,
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/pt-2026-27-images.tar"
       },
@@ -705,6 +999,24 @@
           "clubCount": 16
         },
         {
+          "id": "division-2",
+          "name": "Division 2",
+          "tier": 4,
+          "clubCount": 14
+        },
+        {
+          "id": "division-3",
+          "name": "Division 3",
+          "tier": 5,
+          "clubCount": 12
+        },
+        {
+          "id": "ettan",
+          "name": "Ettan",
+          "tier": 3,
+          "clubCount": 16
+        },
+        {
           "id": "superettan",
           "name": "Superettan",
           "tier": 2,
@@ -712,18 +1024,18 @@
         }
       ],
       "stats": {
-        "clubs": 32,
-        "clubsWithSquad": 32,
-        "players": 808,
-        "photos": 724
+        "clubs": 74,
+        "clubsWithSquad": 62,
+        "players": 1489,
+        "photos": 801
       },
       "core": {
         "file": "se-2026-27-core.json.gz",
-        "bytes": 67349
+        "bytes": 120192
       },
       "images": {
         "file": "se-2026-27-images.tar",
-        "bytes": 17854464,
+        "bytes": 20396032,
         "optional": true,
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/se-2026-27-images.tar"
       },
