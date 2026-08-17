@@ -6,22 +6,30 @@ kurulumunda kullanır.
 
 ## İçerik
 
-**2026-27 sezonu · 12 ülke · 2.161 kulüp · 37.597 oyuncu · 60 lig (her ülkede 5 kademe)**
+**2026-27 sezonu · 20 ülke · 3.619 kulüp · 60.685 oyuncu · 100 lig (her ülkede 5 kademe)**
 
 | Ülke | Kulüp | Oyuncu | Ligler |
 |---|---|---|---|
+| 🇳🇴 Norveç | 357 | 4.277 | Eliteserien → 4. divisjon |
+| 🇦🇹 Avusturya | 293 | 5.626 | Bundesliga → Gebietsliga |
 | 🇮🇹 İtalya | 280 | 5.114 | Serie A → Eccellenza |
 | 🇪🇸 İspanya | 262 | 3.914 | LaLiga → Tercera |
 | 🇩🇪 Almanya | 237 | 3.953 | Bundesliga → Oberliga |
 | 🇸🇪 İsveç | 232 | 3.088 | Allsvenskan → Division 3 |
+| 🇨🇿 Çekya | 190 | 3.579 | Chance Liga → Krajský přebor |
 | 🇫🇷 Fransa | 186 | 2.473 | Ligue 1 → National 3 |
+| 🇵🇱 Polonya | 180 | 3.529 | Ekstraklasa → IV liga |
 | 🇵🇹 Portekiz | 172 | 3.271 | Primeira Liga → Distrital |
+| 🇨🇭 İsviçre | 158 | 2.285 | Super League → 2. Liga Interregional |
 | 🇳🇱 Hollanda | 148 | 2.265 | Eredivisie → Vierde Divisie |
 | 🇹🇷 Türkiye | 145 | 3.717 | Süper Lig → PGL |
 | 🇭🇷 Hırvatistan | 138 | 2.661 | HNL → Četvrta NL |
 | 🇬🇷 Yunanistan | 130 | 2.054 | Super League → EPS B |
 | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 İngiltere | 116 | 3.035 | Premier League → National League |
 | 🇧🇪 Belçika | 115 | 2.052 | Pro League → National 3 |
+| 🇺🇦 Ukrayna | 99 | 1.550 | Premier Liha → Oblast ligleri |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 İskoçya | 93 | 1.001 | Premiership → Highland/Lowland |
+| 🇩🇰 Danimarka | 88 | 1.241 | Superliga → Danmarksserien |
 
 Gerçekte tek lig olmayan kademeler (İtalya Serie D 9 grup, Almanya
 Regionalliga 5 bölge, Türkiye 2. ve 3. Lig...) tek bir **havuz** olarak
@@ -39,8 +47,8 @@ teknik ekip yer alır.
 ## Dosyalar
 
 - `index.json` — paket katalogu. Oyun önce bunu okur.
-- `world-2026-27-core.json.gz` — **tek indirmelik dünya paketi** (2,9 MB).
-  12 ülkenin tamamı.
+- `world-2026-27-core.json.gz` — **tek indirmelik dünya paketi** (4,7 MB).
+  20 ülkenin tamamı.
 - `<ülke>-2026-27-core.json.gz` — tek ülke paketleri (isteğe bağlı kullanım).
 - Görsel katmanı → [Releases](../../releases) altında `<ülke>-2026-27-images.tar`.
   **Opsiyoneldir**, oyun görselsiz de tam çalışır.

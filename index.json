@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T02:00:28.305Z",
+  "generatedAt": "2026-08-17T16:22:29.131Z",
   "packs": [
     {
       "id": "world-2026-27",
@@ -9,8 +9,12 @@
       "name": "SFC Dünya Paketi 2026-27",
       "version": "1.0.0",
       "countries": [
+        "at",
         "be",
+        "ch",
+        "cz",
         "de",
+        "dk",
         "en",
         "es",
         "fr",
@@ -18,11 +22,45 @@
         "hr",
         "it",
         "nl",
+        "no",
+        "pl",
         "pt",
+        "sc",
         "se",
-        "tr"
+        "tr",
+        "ua"
       ],
       "leagues": [
+        {
+          "id": "2-liga",
+          "name": "2. Liga",
+          "tier": 2,
+          "clubCount": 16
+        },
+        {
+          "id": "bundesliga-at",
+          "name": "Bundesliga",
+          "tier": 1,
+          "clubCount": 12
+        },
+        {
+          "id": "gebietsliga",
+          "name": "Gebietsliga",
+          "tier": 5,
+          "clubCount": 60
+        },
+        {
+          "id": "landesliga-at",
+          "name": "Landesliga",
+          "tier": 4,
+          "clubCount": 142
+        },
+        {
+          "id": "regionalliga-at",
+          "name": "Regionalliga",
+          "tier": 3,
+          "clubCount": 63
+        },
         {
           "id": "challenger-pro-league",
           "name": "Challenger Pro League",
@@ -54,6 +92,66 @@
           "clubCount": 18
         },
         {
+          "id": "1-liga-classic",
+          "name": "1. Liga Classic",
+          "tier": 4,
+          "clubCount": 48
+        },
+        {
+          "id": "2-liga-inter",
+          "name": "2. Liga Interregional",
+          "tier": 5,
+          "clubCount": 70
+        },
+        {
+          "id": "challenge-league",
+          "name": "Challenge League",
+          "tier": 2,
+          "clubCount": 10
+        },
+        {
+          "id": "promotion-league",
+          "name": "Promotion League",
+          "tier": 3,
+          "clubCount": 18
+        },
+        {
+          "id": "super-league-ch",
+          "name": "Super League",
+          "tier": 1,
+          "clubCount": 12
+        },
+        {
+          "id": "cfl-msfl",
+          "name": "ČFL / MSFL",
+          "tier": 3,
+          "clubCount": 50
+        },
+        {
+          "id": "chance-liga",
+          "name": "Chance Liga",
+          "tier": 1,
+          "clubCount": 16
+        },
+        {
+          "id": "divize",
+          "name": "Divize",
+          "tier": 4,
+          "clubCount": 54
+        },
+        {
+          "id": "narodni-liga",
+          "name": "Chance Národní Liga",
+          "tier": 2,
+          "clubCount": 16
+        },
+        {
+          "id": "prebor",
+          "name": "Krajský přebor",
+          "tier": 5,
+          "clubCount": 54
+        },
+        {
           "id": "2-bundesliga",
           "name": "2. Bundesliga",
           "tier": 2,
@@ -82,6 +180,36 @@
           "name": "Regionalliga",
           "tier": 4,
           "clubCount": 91
+        },
+        {
+          "id": "1-division",
+          "name": "1. Division",
+          "tier": 2,
+          "clubCount": 12
+        },
+        {
+          "id": "2-division",
+          "name": "2. Division",
+          "tier": 3,
+          "clubCount": 12
+        },
+        {
+          "id": "3-division",
+          "name": "3. Division",
+          "tier": 4,
+          "clubCount": 12
+        },
+        {
+          "id": "danmarksserien",
+          "name": "Danmarksserien",
+          "tier": 5,
+          "clubCount": 40
+        },
+        {
+          "id": "superliga",
+          "name": "Superliga",
+          "tier": 1,
+          "clubCount": 12
         },
         {
           "id": "championship",
@@ -294,6 +422,66 @@
           "clubCount": 18
         },
         {
+          "id": "4-divisjon",
+          "name": "4. divisjon",
+          "tier": 5,
+          "clubCount": 213
+        },
+        {
+          "id": "eliteserien",
+          "name": "Eliteserien",
+          "tier": 1,
+          "clubCount": 16
+        },
+        {
+          "id": "norsk-tipping-ligaen",
+          "name": "Norsk Tipping-ligaen",
+          "tier": 4,
+          "clubCount": 84
+        },
+        {
+          "id": "obos-ligaen",
+          "name": "OBOS-ligaen",
+          "tier": 2,
+          "clubCount": 16
+        },
+        {
+          "id": "postnord-ligaen",
+          "name": "PostNord-ligaen",
+          "tier": 3,
+          "clubCount": 28
+        },
+        {
+          "id": "ekstraklasa",
+          "name": "Ekstraklasa",
+          "tier": 1,
+          "clubCount": 18
+        },
+        {
+          "id": "i-liga",
+          "name": "I liga",
+          "tier": 2,
+          "clubCount": 18
+        },
+        {
+          "id": "ii-liga",
+          "name": "II liga",
+          "tier": 3,
+          "clubCount": 18
+        },
+        {
+          "id": "iii-liga",
+          "name": "III liga",
+          "tier": 4,
+          "clubCount": 72
+        },
+        {
+          "id": "iv-liga",
+          "name": "IV liga",
+          "tier": 5,
+          "clubCount": 54
+        },
+        {
           "id": "campeonato-de-portugal",
           "name": "Campeonato de Portugal",
           "tier": 4,
@@ -322,6 +510,36 @@
           "name": "Primeira Liga",
           "tier": 1,
           "clubCount": 18
+        },
+        {
+          "id": "championship-sc",
+          "name": "Championship",
+          "tier": 2,
+          "clubCount": 10
+        },
+        {
+          "id": "highland-lowland",
+          "name": "Highland / Lowland League",
+          "tier": 5,
+          "clubCount": 51
+        },
+        {
+          "id": "league-one-sc",
+          "name": "League One",
+          "tier": 3,
+          "clubCount": 10
+        },
+        {
+          "id": "league-two-sc",
+          "name": "League Two",
+          "tier": 4,
+          "clubCount": 10
+        },
+        {
+          "id": "premiership",
+          "name": "Premiership",
+          "tier": 1,
+          "clubCount": 12
         },
         {
           "id": "allsvenskan",
@@ -382,19 +600,105 @@
           "name": "Süper Lig",
           "tier": 1,
           "clubCount": 18
+        },
+        {
+          "id": "amatorska-liha",
+          "name": "Amatorska Liha",
+          "tier": 4,
+          "clubCount": 17
+        },
+        {
+          "id": "druha-liha",
+          "name": "Druha Liha",
+          "tier": 3,
+          "clubCount": 18
+        },
+        {
+          "id": "oblast-liha",
+          "name": "Oblast Ligi",
+          "tier": 5,
+          "clubCount": 32
+        },
+        {
+          "id": "persha-liha",
+          "name": "Persha Liha",
+          "tier": 2,
+          "clubCount": 16
+        },
+        {
+          "id": "premier-liha",
+          "name": "Premier Liha",
+          "tier": 1,
+          "clubCount": 16
         }
       ],
       "stats": {
-        "clubs": 2161,
-        "players": 37597,
-        "photos": 20333
+        "clubs": 3619,
+        "players": 60685,
+        "photos": 25315
       },
       "core": {
         "file": "world-2026-27-core.json.gz",
-        "bytes": 3026307
+        "bytes": 4792614
       },
       "images": null,
-      "updatedAt": "2026-08-17T02:00:27.520Z"
+      "updatedAt": "2026-08-17T16:22:27.846Z"
+    },
+    {
+      "id": "at-2026-27",
+      "country": "AT",
+      "countryCode": "at",
+      "season": "2026-27",
+      "name": "Avusturya Paketi 2026-27",
+      "version": "0.1.0",
+      "leagues": [
+        {
+          "id": "2-liga",
+          "name": "2. Liga",
+          "tier": 2,
+          "clubCount": 16
+        },
+        {
+          "id": "bundesliga-at",
+          "name": "Bundesliga",
+          "tier": 1,
+          "clubCount": 12
+        },
+        {
+          "id": "gebietsliga",
+          "name": "Gebietsliga",
+          "tier": 5,
+          "clubCount": 60
+        },
+        {
+          "id": "landesliga-at",
+          "name": "Landesliga",
+          "tier": 4,
+          "clubCount": 142
+        },
+        {
+          "id": "regionalliga-at",
+          "name": "Regionalliga",
+          "tier": 3,
+          "clubCount": 63
+        }
+      ],
+      "stats": {
+        "clubs": 293,
+        "clubsWithSquad": 233,
+        "players": 5626,
+        "photos": 676
+      },
+      "core": {
+        "file": "at-2026-27-core.json.gz",
+        "bytes": 417666
+      },
+      "images": {
+        "file": "at-2026-27-images.tar",
+        "bytes": 40920064,
+        "optional": true
+      },
+      "updatedAt": "2026-08-17T16:20:44.000Z"
     },
     {
       "id": "be-2026-27",
@@ -453,6 +757,118 @@
       "updatedAt": "2026-08-16T00:00:00.000Z"
     },
     {
+      "id": "ch-2026-27",
+      "country": "CH",
+      "countryCode": "ch",
+      "season": "2026-27",
+      "name": "İsviçre Paketi 2026-27",
+      "version": "0.1.0",
+      "leagues": [
+        {
+          "id": "1-liga-classic",
+          "name": "1. Liga Classic",
+          "tier": 4,
+          "clubCount": 48
+        },
+        {
+          "id": "2-liga-inter",
+          "name": "2. Liga Interregional",
+          "tier": 5,
+          "clubCount": 70
+        },
+        {
+          "id": "challenge-league",
+          "name": "Challenge League",
+          "tier": 2,
+          "clubCount": 10
+        },
+        {
+          "id": "promotion-league",
+          "name": "Promotion League",
+          "tier": 3,
+          "clubCount": 18
+        },
+        {
+          "id": "super-league-ch",
+          "name": "Super League",
+          "tier": 1,
+          "clubCount": 12
+        }
+      ],
+      "stats": {
+        "clubs": 158,
+        "clubsWithSquad": 88,
+        "players": 2285,
+        "photos": 514
+      },
+      "core": {
+        "file": "ch-2026-27-core.json.gz",
+        "bytes": 184077
+      },
+      "images": {
+        "file": "ch-2026-27-images.tar",
+        "bytes": 6044160,
+        "optional": true
+      },
+      "updatedAt": "2026-08-17T00:00:00.000Z"
+    },
+    {
+      "id": "cz-2026-27",
+      "country": "CZ",
+      "countryCode": "cz",
+      "season": "2026-27",
+      "name": "Çekya Paketi 2026-27",
+      "version": "0.1.0",
+      "leagues": [
+        {
+          "id": "cfl-msfl",
+          "name": "ČFL / MSFL",
+          "tier": 3,
+          "clubCount": 50
+        },
+        {
+          "id": "chance-liga",
+          "name": "Chance Liga",
+          "tier": 1,
+          "clubCount": 16
+        },
+        {
+          "id": "divize",
+          "name": "Divize",
+          "tier": 4,
+          "clubCount": 54
+        },
+        {
+          "id": "narodni-liga",
+          "name": "Chance Národní Liga",
+          "tier": 2,
+          "clubCount": 16
+        },
+        {
+          "id": "prebor",
+          "name": "Krajský přebor",
+          "tier": 5,
+          "clubCount": 54
+        }
+      ],
+      "stats": {
+        "clubs": 190,
+        "clubsWithSquad": 136,
+        "players": 3579,
+        "photos": 682
+      },
+      "core": {
+        "file": "cz-2026-27-core.json.gz",
+        "bytes": 257743
+      },
+      "images": {
+        "file": "cz-2026-27-images.tar",
+        "bytes": 18435584,
+        "optional": true
+      },
+      "updatedAt": "2026-08-17T00:00:00.000Z"
+    },
+    {
       "id": "de-2026-27",
       "country": "DE",
       "countryCode": "de",
@@ -507,6 +923,62 @@
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
+    },
+    {
+      "id": "dk-2026-27",
+      "country": "DK",
+      "countryCode": "dk",
+      "season": "2026-27",
+      "name": "Danimarka Paketi 2026-27",
+      "version": "0.1.0",
+      "leagues": [
+        {
+          "id": "1-division",
+          "name": "1. Division",
+          "tier": 2,
+          "clubCount": 12
+        },
+        {
+          "id": "2-division",
+          "name": "2. Division",
+          "tier": 3,
+          "clubCount": 12
+        },
+        {
+          "id": "3-division",
+          "name": "3. Division",
+          "tier": 4,
+          "clubCount": 12
+        },
+        {
+          "id": "danmarksserien",
+          "name": "Danmarksserien",
+          "tier": 5,
+          "clubCount": 40
+        },
+        {
+          "id": "superliga",
+          "name": "Superliga",
+          "tier": 1,
+          "clubCount": 12
+        }
+      ],
+      "stats": {
+        "clubs": 88,
+        "clubsWithSquad": 48,
+        "players": 1241,
+        "photos": 411
+      },
+      "core": {
+        "file": "dk-2026-27-core.json.gz",
+        "bytes": 100537
+      },
+      "images": {
+        "file": "dk-2026-27-images.tar",
+        "bytes": 30213120,
+        "optional": true
+      },
+      "updatedAt": "2026-08-17T00:00:00.000Z"
     },
     {
       "id": "en-2026-27",
@@ -901,6 +1373,118 @@
       "updatedAt": "2026-08-16T00:00:00.000Z"
     },
     {
+      "id": "no-2026",
+      "country": "NO",
+      "countryCode": "no",
+      "season": "2026",
+      "name": "Norveç Paketi 2026",
+      "version": "0.1.0",
+      "leagues": [
+        {
+          "id": "4-divisjon",
+          "name": "4. divisjon",
+          "tier": 5,
+          "clubCount": 213
+        },
+        {
+          "id": "eliteserien",
+          "name": "Eliteserien",
+          "tier": 1,
+          "clubCount": 16
+        },
+        {
+          "id": "norsk-tipping-ligaen",
+          "name": "Norsk Tipping-ligaen",
+          "tier": 4,
+          "clubCount": 84
+        },
+        {
+          "id": "obos-ligaen",
+          "name": "OBOS-ligaen",
+          "tier": 2,
+          "clubCount": 16
+        },
+        {
+          "id": "postnord-ligaen",
+          "name": "PostNord-ligaen",
+          "tier": 3,
+          "clubCount": 28
+        }
+      ],
+      "stats": {
+        "clubs": 357,
+        "clubsWithSquad": 144,
+        "players": 4277,
+        "photos": 515
+      },
+      "core": {
+        "file": "no-2026-27-core.json.gz",
+        "bytes": 338032
+      },
+      "images": {
+        "file": "no-2026-27-images.tar",
+        "bytes": 8807424,
+        "optional": true
+      },
+      "updatedAt": "2026-08-17T00:00:00.000Z"
+    },
+    {
+      "id": "pl-2026-27",
+      "country": "PL",
+      "countryCode": "pl",
+      "season": "2026-27",
+      "name": "Polonya Paketi 2026-27",
+      "version": "0.1.0",
+      "leagues": [
+        {
+          "id": "ekstraklasa",
+          "name": "Ekstraklasa",
+          "tier": 1,
+          "clubCount": 18
+        },
+        {
+          "id": "i-liga",
+          "name": "I liga",
+          "tier": 2,
+          "clubCount": 18
+        },
+        {
+          "id": "ii-liga",
+          "name": "II liga",
+          "tier": 3,
+          "clubCount": 18
+        },
+        {
+          "id": "iii-liga",
+          "name": "III liga",
+          "tier": 4,
+          "clubCount": 72
+        },
+        {
+          "id": "iv-liga",
+          "name": "IV liga",
+          "tier": 5,
+          "clubCount": 54
+        }
+      ],
+      "stats": {
+        "clubs": 180,
+        "clubsWithSquad": 126,
+        "players": 3529,
+        "photos": 916
+      },
+      "core": {
+        "file": "pl-2026-27-core.json.gz",
+        "bytes": 264555
+      },
+      "images": {
+        "file": "pl-2026-27-images.tar",
+        "bytes": 27451904,
+        "optional": true
+      },
+      "updatedAt": "2026-08-17T00:00:00.000Z"
+    },
+    {
       "id": "pt-2026-27",
       "country": "PT",
       "countryCode": "pt",
@@ -955,6 +1539,62 @@
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
+    },
+    {
+      "id": "sc-2026-27",
+      "country": "SC",
+      "countryCode": "sc",
+      "season": "2026-27",
+      "name": "İskoçya Paketi 2026-27",
+      "version": "0.1.0",
+      "leagues": [
+        {
+          "id": "championship-sc",
+          "name": "Championship",
+          "tier": 2,
+          "clubCount": 10
+        },
+        {
+          "id": "highland-lowland",
+          "name": "Highland / Lowland League",
+          "tier": 5,
+          "clubCount": 51
+        },
+        {
+          "id": "league-one-sc",
+          "name": "League One",
+          "tier": 3,
+          "clubCount": 10
+        },
+        {
+          "id": "league-two-sc",
+          "name": "League Two",
+          "tier": 4,
+          "clubCount": 10
+        },
+        {
+          "id": "premiership",
+          "name": "Premiership",
+          "tier": 1,
+          "clubCount": 12
+        }
+      ],
+      "stats": {
+        "clubs": 93,
+        "clubsWithSquad": 42,
+        "players": 1001,
+        "photos": 415
+      },
+      "core": {
+        "file": "sc-2026-27-core.json.gz",
+        "bytes": 90883
+      },
+      "images": {
+        "file": "sc-2026-27-images.tar",
+        "bytes": 21633024,
+        "optional": true
+      },
+      "updatedAt": "2026-08-17T00:00:00.000Z"
     },
     {
       "id": "se-2026",
@@ -1067,6 +1707,62 @@
         "optional": true
       },
       "updatedAt": "2026-08-15T22:24:44.217Z"
+    },
+    {
+      "id": "ua-2026-27",
+      "country": "UA",
+      "countryCode": "ua",
+      "season": "2026-27",
+      "name": "Ukrayna Paketi 2026-27",
+      "version": "0.1.0",
+      "leagues": [
+        {
+          "id": "amatorska-liha",
+          "name": "Amatorska Liha",
+          "tier": 4,
+          "clubCount": 17
+        },
+        {
+          "id": "druha-liha",
+          "name": "Druha Liha",
+          "tier": 3,
+          "clubCount": 18
+        },
+        {
+          "id": "oblast-liha",
+          "name": "Oblast Ligi",
+          "tier": 5,
+          "clubCount": 32
+        },
+        {
+          "id": "persha-liha",
+          "name": "Persha Liha",
+          "tier": 2,
+          "clubCount": 16
+        },
+        {
+          "id": "premier-liha",
+          "name": "Premier Liha",
+          "tier": 1,
+          "clubCount": 16
+        }
+      ],
+      "stats": {
+        "clubs": 99,
+        "clubsWithSquad": 61,
+        "players": 1550,
+        "photos": 853
+      },
+      "core": {
+        "file": "ua-2026-27-core.json.gz",
+        "bytes": 118704
+      },
+      "images": {
+        "file": "ua-2026-27-images.tar",
+        "bytes": 10902016,
+        "optional": true
+      },
+      "updatedAt": "2026-08-17T14:44:21.906Z"
     }
   ]
 }
