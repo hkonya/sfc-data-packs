@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T16:22:29.131Z",
+  "generatedAt": "2026-08-17T18:03:18.939Z",
   "packs": [
     {
       "id": "world-2026-27",
@@ -639,10 +639,10 @@
       },
       "core": {
         "file": "world-2026-27-core.json.gz",
-        "bytes": 4792614
+        "bytes": 4792619
       },
       "images": null,
-      "updatedAt": "2026-08-17T16:22:27.846Z"
+      "updatedAt": "2026-08-17T18:03:17.652Z"
     },
     {
       "id": "at-2026-27",
@@ -695,6 +695,7 @@
       },
       "images": {
         "file": "at-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/at-2026-27-images.tar",
         "bytes": 40920064,
         "optional": true
       },
@@ -751,6 +752,7 @@
       },
       "images": {
         "file": "be-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/be-2026-27-images.tar",
         "bytes": 61548032,
         "optional": true
       },
@@ -807,6 +809,7 @@
       },
       "images": {
         "file": "ch-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/ch-2026-27-images.tar",
         "bytes": 6044160,
         "optional": true
       },
@@ -863,6 +866,7 @@
       },
       "images": {
         "file": "cz-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/cz-2026-27-images.tar",
         "bytes": 18435584,
         "optional": true
       },
@@ -919,6 +923,7 @@
       },
       "images": {
         "file": "de-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/de-2026-27-images.tar",
         "bytes": 56608256,
         "optional": true
       },
@@ -975,6 +980,7 @@
       },
       "images": {
         "file": "dk-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/dk-2026-27-images.tar",
         "bytes": 30213120,
         "optional": true
       },
@@ -1031,6 +1037,7 @@
       },
       "images": {
         "file": "en-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/en-2026-27-images.tar",
         "bytes": 80404480,
         "optional": true
       },
@@ -1087,6 +1094,7 @@
       },
       "images": {
         "file": "es-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/es-2026-27-images.tar",
         "bytes": 85858816,
         "optional": true
       },
@@ -1143,6 +1151,7 @@
       },
       "images": {
         "file": "fr-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/fr-2026-27-images.tar",
         "bytes": 122011648,
         "optional": true
       },
@@ -1199,6 +1208,7 @@
       },
       "images": {
         "file": "gr-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/gr-2026-27-images.tar",
         "bytes": 92426752,
         "optional": true
       },
@@ -1255,6 +1265,7 @@
       },
       "images": {
         "file": "hr-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/hr-2026-27-images.tar",
         "bytes": 30645248,
         "optional": true
       },
@@ -1311,6 +1322,7 @@
       },
       "images": {
         "file": "it-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/it-2026-27-images.tar",
         "bytes": 112507904,
         "optional": true
       },
@@ -1367,6 +1379,7 @@
       },
       "images": {
         "file": "nl-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/nl-2026-27-images.tar",
         "bytes": 47890432,
         "optional": true
       },
@@ -1423,6 +1436,7 @@
       },
       "images": {
         "file": "no-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/no-2026-27-images.tar",
         "bytes": 8807424,
         "optional": true
       },
@@ -1479,6 +1493,7 @@
       },
       "images": {
         "file": "pl-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/pl-2026-27-images.tar",
         "bytes": 27451904,
         "optional": true
       },
@@ -1535,6 +1550,7 @@
       },
       "images": {
         "file": "pt-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/pt-2026-27-images.tar",
         "bytes": 52150784,
         "optional": true
       },
@@ -1591,6 +1607,7 @@
       },
       "images": {
         "file": "sc-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/sc-2026-27-images.tar",
         "bytes": 21633024,
         "optional": true
       },
@@ -1647,6 +1664,7 @@
       },
       "images": {
         "file": "se-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/se-2026-27-images.tar",
         "bytes": 33012224,
         "optional": true
       },
@@ -1703,6 +1721,7 @@
       },
       "images": {
         "file": "tr-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/tr-2026-27-images.tar",
         "bytes": 291645952,
         "optional": true
       },
@@ -1759,6 +1778,7 @@
       },
       "images": {
         "file": "ua-2026-27-images.tar",
+        "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/ua-2026-27-images.tar",
         "bytes": 10902016,
         "optional": true
       },
