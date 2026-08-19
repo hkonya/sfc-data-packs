@@ -6,7 +6,7 @@ kurulumunda kullanır.
 
 ## İçerik
 
-**2026-27 sezonu · 20 ülke · 3.619 kulüp · 60.685 oyuncu · 100 lig (her ülkede 5 kademe)**
+**2026-27 sezonu · 20 ülke · 3.619 kulüp · 61.231 oyuncu · 100 lig (her ülkede 5 kademe)**
 
 | Ülke | Kulüp | Oyuncu | Ligler |
 |---|---|---|---|
@@ -30,6 +30,11 @@ kurulumunda kullanır.
 | 🇺🇦 Ukrayna | 99 | 1.550 | Premier Liha → Oblast ligleri |
 | 🏴󠁧󠁢󠁳󠁣󠁴󠁿 İskoçya | 93 | 1.001 | Premiership → Highland/Lowland |
 | 🇩🇰 Danimarka | 88 | 1.241 | Superliga → Danmarksserien |
+
+Her ülke paketinde ayrıca **kulüpsüz futbolcular** bulunur
+(`free_agents.json`, toplam 546 oyuncu). Oyun bunları serbest transfer
+havuzunun bir kısmına yerleştirir, kalanını kendisi üretir — böylece gerçek
+isimler görünürken havuzun yaş/mevki/kalite dengesi korunur.
 
 Gerçekte tek lig olmayan kademeler (İtalya Serie D 9 grup, Almanya
 Regionalliga 5 bölge, Türkiye 2. ve 3. Lig...) tek bir **havuz** olarak
