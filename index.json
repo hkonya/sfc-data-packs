@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T17:09:35.496Z",
+  "generatedAt": "2026-08-24T02:49:52.427Z",
   "packs": [
     {
       "id": "world-2026-27",
@@ -634,15 +634,15 @@
       ],
       "stats": {
         "clubs": 3619,
-        "players": 61231,
-        "photos": 25797
+        "players": 60890,
+        "photos": 25706
       },
       "core": {
         "file": "world-2026-27-core.json.gz",
-        "bytes": 4844537
+        "bytes": 5285979
       },
       "images": null,
-      "updatedAt": "2026-08-19T17:09:34.270Z"
+      "updatedAt": "2026-08-24T02:49:49.875Z"
     },
     {
       "id": "at-2026-27",
@@ -686,12 +686,12 @@
       "stats": {
         "clubs": 293,
         "clubsWithSquad": 233,
-        "players": 5648,
-        "photos": 697
+        "players": 5589,
+        "photos": 689
       },
       "core": {
         "file": "at-2026-27-core.json.gz",
-        "bytes": 419655
+        "bytes": 465829
       },
       "images": {
         "file": "at-2026-27-images.tar",
@@ -743,12 +743,12 @@
       "stats": {
         "clubs": 115,
         "clubsWithSquad": 82,
-        "players": 2078,
-        "photos": 1149
+        "players": 2055,
+        "photos": 1130
       },
       "core": {
         "file": "be-2026-27-core.json.gz",
-        "bytes": 172593
+        "bytes": 185234
       },
       "images": {
         "file": "be-2026-27-images.tar",
@@ -800,12 +800,12 @@
       "stats": {
         "clubs": 158,
         "clubsWithSquad": 88,
-        "players": 2311,
+        "players": 2275,
         "photos": 532
       },
       "core": {
         "file": "ch-2026-27-core.json.gz",
-        "bytes": 186470
+        "bytes": 203694
       },
       "images": {
         "file": "ch-2026-27-images.tar",
@@ -857,12 +857,12 @@
       "stats": {
         "clubs": 190,
         "clubsWithSquad": 136,
-        "players": 3601,
-        "photos": 701
+        "players": 3547,
+        "photos": 697
       },
       "core": {
         "file": "cz-2026-27-core.json.gz",
-        "bytes": 259854
+        "bytes": 279660
       },
       "images": {
         "file": "cz-2026-27-images.tar",
@@ -914,12 +914,12 @@
       "stats": {
         "clubs": 237,
         "clubsWithSquad": 147,
-        "players": 3993,
-        "photos": 2007
+        "players": 3968,
+        "photos": 1989
       },
       "core": {
         "file": "de-2026-27-core.json.gz",
-        "bytes": 335564
+        "bytes": 363353
       },
       "images": {
         "file": "de-2026-27-images.tar",
@@ -971,12 +971,12 @@
       "stats": {
         "clubs": 88,
         "clubsWithSquad": 48,
-        "players": 1267,
-        "photos": 427
+        "players": 1266,
+        "photos": 426
       },
       "core": {
         "file": "dk-2026-27-core.json.gz",
-        "bytes": 102923
+        "bytes": 113487
       },
       "images": {
         "file": "dk-2026-27-images.tar",
@@ -1033,7 +1033,7 @@
       },
       "core": {
         "file": "en-2026-27-core.json.gz",
-        "bytes": 260006
+        "bytes": 280258
       },
       "images": {
         "file": "en-2026-27-images.tar",
@@ -1085,12 +1085,12 @@
       "stats": {
         "clubs": 262,
         "clubsWithSquad": 172,
-        "players": 3954,
-        "photos": 1730
+        "players": 3949,
+        "photos": 1729
       },
       "core": {
         "file": "es-2026-27-core.json.gz",
-        "bytes": 316259
+        "bytes": 345104
       },
       "images": {
         "file": "es-2026-27-images.tar",
@@ -1147,7 +1147,7 @@
       },
       "core": {
         "file": "fr-2026-27-core.json.gz",
-        "bytes": 219588
+        "bytes": 239890
       },
       "images": {
         "file": "fr-2026-27-images.tar",
@@ -1204,7 +1204,7 @@
       },
       "core": {
         "file": "gr-2026-27-core.json.gz",
-        "bytes": 157464
+        "bytes": 170097
       },
       "images": {
         "file": "gr-2026-27-images.tar",
@@ -1256,12 +1256,12 @@
       "stats": {
         "clubs": 138,
         "clubsWithSquad": 90,
-        "players": 2687,
-        "photos": 766
+        "players": 2649,
+        "photos": 755
       },
       "core": {
         "file": "hr-2026-27-core.json.gz",
-        "bytes": 197239
+        "bytes": 214229
       },
       "images": {
         "file": "hr-2026-27-images.tar",
@@ -1318,7 +1318,7 @@
       },
       "core": {
         "file": "it-2026-27-core.json.gz",
-        "bytes": 402800
+        "bytes": 440601
       },
       "images": {
         "file": "it-2026-27-images.tar",
@@ -1370,12 +1370,12 @@
       "stats": {
         "clubs": 148,
         "clubsWithSquad": 92,
-        "players": 2297,
-        "photos": 1231
+        "players": 2293,
+        "photos": 1227
       },
       "core": {
         "file": "nl-2026-27-core.json.gz",
-        "bytes": 189293
+        "bytes": 206170
       },
       "images": {
         "file": "nl-2026-27-images.tar",
@@ -1427,12 +1427,12 @@
       "stats": {
         "clubs": 357,
         "clubsWithSquad": 144,
-        "players": 4295,
+        "players": 4241,
         "photos": 529
       },
       "core": {
         "file": "no-2026-27-core.json.gz",
-        "bytes": 339762
+        "bytes": 373097
       },
       "images": {
         "file": "no-2026-27-images.tar",
@@ -1484,12 +1484,12 @@
       "stats": {
         "clubs": 180,
         "clubsWithSquad": 126,
-        "players": 3551,
+        "players": 3549,
         "photos": 937
       },
       "core": {
         "file": "pl-2026-27-core.json.gz",
-        "bytes": 266606
+        "bytes": 292028
       },
       "images": {
         "file": "pl-2026-27-images.tar",
@@ -1541,12 +1541,12 @@
       "stats": {
         "clubs": 172,
         "clubsWithSquad": 120,
-        "players": 3303,
-        "photos": 1264
+        "players": 3284,
+        "photos": 1251
       },
       "core": {
         "file": "pt-2026-27-core.json.gz",
-        "bytes": 261333
+        "bytes": 286336
       },
       "images": {
         "file": "pt-2026-27-images.tar",
@@ -1603,7 +1603,7 @@
       },
       "core": {
         "file": "sc-2026-27-core.json.gz",
-        "bytes": 92901
+        "bytes": 101267
       },
       "images": {
         "file": "sc-2026-27-images.tar",
@@ -1655,12 +1655,12 @@
       "stats": {
         "clubs": 232,
         "clubsWithSquad": 136,
-        "players": 3106,
-        "photos": 861
+        "players": 3095,
+        "photos": 858
       },
       "core": {
         "file": "se-2026-27-core.json.gz",
-        "bytes": 242498
+        "bytes": 268856
       },
       "images": {
         "file": "se-2026-27-images.tar",
@@ -1712,12 +1712,12 @@
       "stats": {
         "clubs": 145,
         "clubsWithSquad": 127,
-        "players": 3743,
-        "photos": 3571
+        "players": 3739,
+        "photos": 3567
       },
       "core": {
         "file": "tr-2026-27-core.json.gz",
-        "bytes": 313739
+        "bytes": 338727
       },
       "images": {
         "file": "tr-2026-27-images.tar",
@@ -1769,12 +1769,12 @@
       "stats": {
         "clubs": 99,
         "clubsWithSquad": 61,
-        "players": 1568,
-        "photos": 871
+        "players": 1562,
+        "photos": 866
       },
       "core": {
         "file": "ua-2026-27-core.json.gz",
-        "bytes": 120327
+        "bytes": 131012
       },
       "images": {
         "file": "ua-2026-27-images.tar",
