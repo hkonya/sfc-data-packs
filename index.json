@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-24T02:49:52.427Z",
+  "generatedAt": "2026-08-27T06:39:25.178Z",
   "packs": [
     {
       "id": "world-2026-27",
@@ -7,7 +7,7 @@
       "countryCode": "world",
       "season": "2026-27",
       "name": "SFC Dünya Paketi 2026-27",
-      "version": "1.0.0",
+      "version": "1.0.0+7e88c03f",
       "countries": [
         "at",
         "be",
@@ -639,10 +639,10 @@
       },
       "core": {
         "file": "world-2026-27-core.json.gz",
-        "bytes": 5285979
+        "bytes": 5286001
       },
       "images": null,
-      "updatedAt": "2026-08-24T02:49:49.875Z"
+      "updatedAt": "2026-08-27T06:39:23.835Z"
     },
     {
       "id": "at-2026-27",
@@ -650,7 +650,7 @@
       "countryCode": "at",
       "season": "2026-27",
       "name": "Avusturya Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+37e17ebe",
       "leagues": [
         {
           "id": "2-liga",
@@ -707,7 +707,7 @@
       "countryCode": "be",
       "season": "2026-27",
       "name": "Belçika Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+e8fe03fe",
       "leagues": [
         {
           "id": "challenger-pro-league",
@@ -764,7 +764,7 @@
       "countryCode": "ch",
       "season": "2026-27",
       "name": "İsviçre Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+a152eff6",
       "leagues": [
         {
           "id": "1-liga-classic",
@@ -821,7 +821,7 @@
       "countryCode": "cz",
       "season": "2026-27",
       "name": "Çekya Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+168e6744",
       "leagues": [
         {
           "id": "cfl-msfl",
@@ -878,7 +878,7 @@
       "countryCode": "de",
       "season": "2026-27",
       "name": "Almanya Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+b58a4276",
       "leagues": [
         {
           "id": "2-bundesliga",
@@ -935,7 +935,7 @@
       "countryCode": "dk",
       "season": "2026-27",
       "name": "Danimarka Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+28bcca20",
       "leagues": [
         {
           "id": "1-division",
@@ -992,7 +992,7 @@
       "countryCode": "en",
       "season": "2026-27",
       "name": "İngiltere Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+025cc8f2",
       "leagues": [
         {
           "id": "championship",
@@ -1049,7 +1049,7 @@
       "countryCode": "es",
       "season": "2026-27",
       "name": "İspanya Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+eb9964ff",
       "leagues": [
         {
           "id": "laliga-2",
@@ -1106,7 +1106,7 @@
       "countryCode": "fr",
       "season": "2026-27",
       "name": "Fransa Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+8471f009",
       "leagues": [
         {
           "id": "ligue-1",
@@ -1163,7 +1163,7 @@
       "countryCode": "gr",
       "season": "2026-27",
       "name": "Yunanistan Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+a4c11488",
       "leagues": [
         {
           "id": "delta-ethniki",
@@ -1220,7 +1220,7 @@
       "countryCode": "hr",
       "season": "2026-27",
       "name": "Hırvatistan Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+8e844397",
       "leagues": [
         {
           "id": "cetvrta-nl",
@@ -1277,7 +1277,7 @@
       "countryCode": "it",
       "season": "2026-27",
       "name": "İtalya Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+445298df",
       "leagues": [
         {
           "id": "eccellenza",
@@ -1334,7 +1334,7 @@
       "countryCode": "nl",
       "season": "2026-27",
       "name": "Hollanda Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+7f751ad0",
       "leagues": [
         {
           "id": "derde-divisie",
@@ -1386,12 +1386,12 @@
       "updatedAt": "2026-08-16T00:00:00.000Z"
     },
     {
-      "id": "no-2026",
+      "id": "no-2026-27",
       "country": "NO",
       "countryCode": "no",
-      "season": "2026",
-      "name": "Norveç Paketi 2026",
-      "version": "0.1.0",
+      "season": "2026-27",
+      "name": "Norveç Paketi 2026-27",
+      "version": "0.1.0+3757cd24",
       "leagues": [
         {
           "id": "4-divisjon",
@@ -1432,7 +1432,7 @@
       },
       "core": {
         "file": "no-2026-27-core.json.gz",
-        "bytes": 373097
+        "bytes": 373099
       },
       "images": {
         "file": "no-2026-27-images.tar",
@@ -1448,7 +1448,7 @@
       "countryCode": "pl",
       "season": "2026-27",
       "name": "Polonya Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+1b22b8e2",
       "leagues": [
         {
           "id": "ekstraklasa",
@@ -1505,7 +1505,7 @@
       "countryCode": "pt",
       "season": "2026-27",
       "name": "Portekiz Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+d1183e55",
       "leagues": [
         {
           "id": "campeonato-de-portugal",
@@ -1562,7 +1562,7 @@
       "countryCode": "sc",
       "season": "2026-27",
       "name": "İskoçya Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+4ed1967a",
       "leagues": [
         {
           "id": "championship-sc",
@@ -1614,12 +1614,12 @@
       "updatedAt": "2026-08-17T00:00:00.000Z"
     },
     {
-      "id": "se-2026",
+      "id": "se-2026-27",
       "country": "SE",
       "countryCode": "se",
-      "season": "2026",
-      "name": "İsveç Paketi 2026",
-      "version": "0.1.0",
+      "season": "2026-27",
+      "name": "İsveç Paketi 2026-27",
+      "version": "0.1.0+2b5f2d3e",
       "leagues": [
         {
           "id": "allsvenskan",
@@ -1660,7 +1660,7 @@
       },
       "core": {
         "file": "se-2026-27-core.json.gz",
-        "bytes": 268856
+        "bytes": 268859
       },
       "images": {
         "file": "se-2026-27-images.tar",
@@ -1676,7 +1676,7 @@
       "countryCode": "tr",
       "season": "2026-27",
       "name": "Türkiye Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+51c51852",
       "leagues": [
         {
           "id": "1-lig",
@@ -1733,7 +1733,7 @@
       "countryCode": "ua",
       "season": "2026-27",
       "name": "Ukrayna Paketi 2026-27",
-      "version": "0.1.0",
+      "version": "0.1.0+2a39b9cf",
       "leagues": [
         {
           "id": "amatorska-liha",
