@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T06:39:25.178Z",
+  "generatedAt": "2026-08-27T07:03:00.663Z",
   "packs": [
     {
       "id": "world-2026-27",
@@ -7,7 +7,7 @@
       "countryCode": "world",
       "season": "2026-27",
       "name": "SFC Dünya Paketi 2026-27",
-      "version": "1.0.0+7e88c03f",
+      "version": "1.0.0+a03d1d9d",
       "countries": [
         "at",
         "be",
@@ -639,10 +639,10 @@
       },
       "core": {
         "file": "world-2026-27-core.json.gz",
-        "bytes": 5286001
+        "bytes": 5286154
       },
       "images": null,
-      "updatedAt": "2026-08-27T06:39:23.835Z"
+      "updatedAt": "2026-08-27T07:02:59.346Z"
     },
     {
       "id": "at-2026-27",
@@ -1106,7 +1106,7 @@
       "countryCode": "fr",
       "season": "2026-27",
       "name": "Fransa Paketi 2026-27",
-      "version": "0.1.0+8471f009",
+      "version": "0.1.0+99c48866",
       "leagues": [
         {
           "id": "ligue-1",
@@ -1147,7 +1147,7 @@
       },
       "core": {
         "file": "fr-2026-27-core.json.gz",
-        "bytes": 239890
+        "bytes": 239920
       },
       "images": {
         "file": "fr-2026-27-images.tar",
@@ -1220,7 +1220,7 @@
       "countryCode": "hr",
       "season": "2026-27",
       "name": "Hırvatistan Paketi 2026-27",
-      "version": "0.1.0+8e844397",
+      "version": "0.1.0+be93fc52",
       "leagues": [
         {
           "id": "cetvrta-nl",
@@ -1261,7 +1261,7 @@
       },
       "core": {
         "file": "hr-2026-27-core.json.gz",
-        "bytes": 214229
+        "bytes": 214340
       },
       "images": {
         "file": "hr-2026-27-images.tar",
