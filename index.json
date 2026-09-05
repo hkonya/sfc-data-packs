@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T07:03:00.663Z",
+  "generatedAt": "2026-09-05T07:06:01.364Z",
   "packs": [
     {
       "id": "world-2026-27",
@@ -7,7 +7,7 @@
       "countryCode": "world",
       "season": "2026-27",
       "name": "SFC Dünya Paketi 2026-27",
-      "version": "1.0.0+a03d1d9d",
+      "version": "1.0.0+75826b4d",
       "countries": [
         "at",
         "be",
@@ -639,10 +639,10 @@
       },
       "core": {
         "file": "world-2026-27-core.json.gz",
-        "bytes": 5286154
+        "bytes": 5286216
       },
       "images": null,
-      "updatedAt": "2026-08-27T07:02:59.346Z"
+      "updatedAt": "2026-09-05T07:05:59.964Z"
     },
     {
       "id": "at-2026-27",
@@ -650,7 +650,7 @@
       "countryCode": "at",
       "season": "2026-27",
       "name": "Avusturya Paketi 2026-27",
-      "version": "0.1.0+37e17ebe",
+      "version": "0.1.0+5ed136bb",
       "leagues": [
         {
           "id": "2-liga",
@@ -691,7 +691,7 @@
       },
       "core": {
         "file": "at-2026-27-core.json.gz",
-        "bytes": 465829
+        "bytes": 465828
       },
       "images": {
         "file": "at-2026-27-images.tar",
@@ -707,7 +707,7 @@
       "countryCode": "be",
       "season": "2026-27",
       "name": "Belçika Paketi 2026-27",
-      "version": "0.1.0+e8fe03fe",
+      "version": "0.1.0+69b6ef46",
       "leagues": [
         {
           "id": "challenger-pro-league",
@@ -748,7 +748,7 @@
       },
       "core": {
         "file": "be-2026-27-core.json.gz",
-        "bytes": 185234
+        "bytes": 185265
       },
       "images": {
         "file": "be-2026-27-images.tar",
@@ -764,7 +764,7 @@
       "countryCode": "ch",
       "season": "2026-27",
       "name": "İsviçre Paketi 2026-27",
-      "version": "0.1.0+a152eff6",
+      "version": "0.1.0+e675e53f",
       "leagues": [
         {
           "id": "1-liga-classic",
@@ -805,7 +805,7 @@
       },
       "core": {
         "file": "ch-2026-27-core.json.gz",
-        "bytes": 203694
+        "bytes": 203712
       },
       "images": {
         "file": "ch-2026-27-images.tar",
@@ -821,7 +821,7 @@
       "countryCode": "cz",
       "season": "2026-27",
       "name": "Çekya Paketi 2026-27",
-      "version": "0.1.0+168e6744",
+      "version": "0.1.0+af731e81",
       "leagues": [
         {
           "id": "cfl-msfl",
@@ -862,7 +862,7 @@
       },
       "core": {
         "file": "cz-2026-27-core.json.gz",
-        "bytes": 279660
+        "bytes": 279667
       },
       "images": {
         "file": "cz-2026-27-images.tar",
@@ -1106,7 +1106,7 @@
       "countryCode": "fr",
       "season": "2026-27",
       "name": "Fransa Paketi 2026-27",
-      "version": "0.1.0+99c48866",
+      "version": "0.1.0+33c54bd1",
       "leagues": [
         {
           "id": "ligue-1",
@@ -1147,7 +1147,7 @@
       },
       "core": {
         "file": "fr-2026-27-core.json.gz",
-        "bytes": 239920
+        "bytes": 239923
       },
       "images": {
         "file": "fr-2026-27-images.tar",
@@ -1220,7 +1220,7 @@
       "countryCode": "hr",
       "season": "2026-27",
       "name": "Hırvatistan Paketi 2026-27",
-      "version": "0.1.0+be93fc52",
+      "version": "0.1.0+03097e09",
       "leagues": [
         {
           "id": "cetvrta-nl",
@@ -1261,7 +1261,7 @@
       },
       "core": {
         "file": "hr-2026-27-core.json.gz",
-        "bytes": 214340
+        "bytes": 214389
       },
       "images": {
         "file": "hr-2026-27-images.tar",
@@ -1334,7 +1334,7 @@
       "countryCode": "nl",
       "season": "2026-27",
       "name": "Hollanda Paketi 2026-27",
-      "version": "0.1.0+7f751ad0",
+      "version": "0.1.0+8a173168",
       "leagues": [
         {
           "id": "derde-divisie",
@@ -1375,7 +1375,7 @@
       },
       "core": {
         "file": "nl-2026-27-core.json.gz",
-        "bytes": 206170
+        "bytes": 206122
       },
       "images": {
         "file": "nl-2026-27-images.tar",
@@ -1562,7 +1562,7 @@
       "countryCode": "sc",
       "season": "2026-27",
       "name": "İskoçya Paketi 2026-27",
-      "version": "0.1.0+4ed1967a",
+      "version": "0.1.0+64c92d8c",
       "leagues": [
         {
           "id": "championship-sc",
@@ -1603,7 +1603,7 @@
       },
       "core": {
         "file": "sc-2026-27-core.json.gz",
-        "bytes": 101267
+        "bytes": 101258
       },
       "images": {
         "file": "sc-2026-27-images.tar",
@@ -1676,7 +1676,7 @@
       "countryCode": "tr",
       "season": "2026-27",
       "name": "Türkiye Paketi 2026-27",
-      "version": "0.1.0+51c51852",
+      "version": "0.1.0+5455c118",
       "leagues": [
         {
           "id": "1-lig",
@@ -1717,7 +1717,7 @@
       },
       "core": {
         "file": "tr-2026-27-core.json.gz",
-        "bytes": 338727
+        "bytes": 338741
       },
       "images": {
         "file": "tr-2026-27-images.tar",
@@ -1733,7 +1733,7 @@
       "countryCode": "ua",
       "season": "2026-27",
       "name": "Ukrayna Paketi 2026-27",
-      "version": "0.1.0+2a39b9cf",
+      "version": "0.1.0+298ae63b",
       "leagues": [
         {
           "id": "amatorska-liha",
@@ -1774,7 +1774,7 @@
       },
       "core": {
         "file": "ua-2026-27-core.json.gz",
-        "bytes": 131012
+        "bytes": 131021
       },
       "images": {
         "file": "ua-2026-27-images.tar",
