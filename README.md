@@ -10,29 +10,29 @@ kurulumunda kullanır.
 
 | Ülke | Kulüp | Oyuncu | Ligler |
 |---|---|---|---|
-| 🇳🇴 Norveç | 357 | 4.277 | Eliteserien → 4. divisjon |
-| 🇦🇹 Avusturya | 293 | 5.626 | Bundesliga → Gebietsliga |
-| 🇮🇹 İtalya | 280 | 5.114 | Serie A → Eccellenza |
-| 🇪🇸 İspanya | 262 | 3.914 | LaLiga → Tercera |
-| 🇩🇪 Almanya | 237 | 3.953 | Bundesliga → Oberliga |
-| 🇸🇪 İsveç | 232 | 3.088 | Allsvenskan → Division 3 |
-| 🇨🇿 Çekya | 190 | 3.579 | Chance Liga → Krajský přebor |
-| 🇫🇷 Fransa | 186 | 2.473 | Ligue 1 → National 3 |
-| 🇵🇱 Polonya | 180 | 3.529 | Ekstraklasa → IV liga |
-| 🇵🇹 Portekiz | 172 | 3.271 | Primeira Liga → Distrital |
-| 🇨🇭 İsviçre | 158 | 2.285 | Super League → 2. Liga Interregional |
-| 🇳🇱 Hollanda | 148 | 2.265 | Eredivisie → Vierde Divisie |
-| 🇹🇷 Türkiye | 145 | 3.717 | Süper Lig → PGL |
-| 🇭🇷 Hırvatistan | 138 | 2.661 | HNL → Četvrta NL |
-| 🇬🇷 Yunanistan | 130 | 2.054 | Super League → EPS B |
-| 🏴󠁧󠁢󠁥󠁮󠁧󠁿 İngiltere | 116 | 3.035 | Premier League → National League |
-| 🇧🇪 Belçika | 115 | 2.052 | Pro League → National 3 |
-| 🇺🇦 Ukrayna | 99 | 1.550 | Premier Liha → Oblast ligleri |
-| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 İskoçya | 93 | 1.001 | Premiership → Highland/Lowland |
-| 🇩🇰 Danimarka | 88 | 1.241 | Superliga → Danmarksserien |
+| 🇳🇴 Norveç | 357 | 4.274 | Eliteserien → 4. divisjon |
+| 🇦🇹 Avusturya | 293 | 5.687 | Bundesliga → Gebietsliga |
+| 🇮🇹 İtalya | 280 | 5.364 | Serie A → Eccellenza |
+| 🇪🇸 İspanya | 262 | 4.111 | LaLiga → Tercera |
+| 🇩🇪 Almanya | 237 | 3.999 | Bundesliga → Oberliga |
+| 🇸🇪 İsveç | 232 | 3.103 | Allsvenskan → Division 3 |
+| 🇨🇿 Çekya | 190 | 3.526 | Chance Liga → Krajský přebor |
+| 🇫🇷 Fransa | 186 | 2.547 | Ligue 1 → National 3 |
+| 🇵🇱 Polonya | 180 | 3.554 | Ekstraklasa → IV liga |
+| 🇵🇹 Portekiz | 172 | 3.397 | Primeira Liga → Distrital |
+| 🇨🇭 İsviçre | 158 | 2.312 | Super League → 2. Liga Interregional |
+| 🇳🇱 Hollanda | 148 | 2.404 | Eredivisie → Vierde Divisie |
+| 🇹🇷 Türkiye | 145 | 3.961 | Süper Lig → PGL |
+| 🇭🇷 Hırvatistan | 138 | 2.638 | HNL → Četvrta NL |
+| 🇬🇷 Yunanistan | 130 | 2.145 | Super League → EPS B |
+| 🏴󠁧󠁢󠁥󠁮󠁧󠁿 İngiltere | 116 | 3.141 | Premier League → National League |
+| 🇧🇪 Belçika | 115 | 2.118 | Pro League → National 3 |
+| 🇺🇦 Ukrayna | 99 | 1.531 | Premier Liha → Oblast ligleri |
+| 🏴󠁧󠁢󠁳󠁣󠁴󠁿 İskoçya | 93 | 1.050 | Premiership → Highland/Lowland |
+| 🇩🇰 Danimarka | 88 | 1.285 | Superliga → Danmarksserien |
 
 Her ülke paketinde ayrıca **kulüpsüz futbolcular** bulunur
-(`free_agents.json`, toplam 546 oyuncu). Oyun bunları serbest transfer
+(`free_agents.json`, toplam 440 oyuncu). Oyun bunları serbest transfer
 havuzunun bir kısmına yerleştirir, kalanını kendisi üretir — böylece gerçek
 isimler görünürken havuzun yaş/mevki/kalite dengesi korunur.
 
@@ -52,7 +52,7 @@ teknik ekip yer alır.
 ## Dosyalar
 
 - `index.json` — paket katalogu. Oyun önce bunu okur.
-- `world-2026-27-core.json.gz` — **tek indirmelik dünya paketi** (4,7 MB).
+- `world-2026-27-core.json.gz` — **tek indirmelik dünya paketi** (5,2 MB).
   20 ülkenin tamamı.
 - `<ülke>-2026-27-core.json.gz` — tek ülke paketleri (isteğe bağlı kullanım).
 - Görsel katmanı → [Releases](../../releases) altında `<ülke>-2026-27-images.tar`.
