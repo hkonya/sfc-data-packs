@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-05T08:49:45.060Z",
+  "generatedAt": "2026-09-06T06:11:02.820Z",
   "packs": [
     {
       "id": "world-2026-27",
@@ -7,7 +7,7 @@
       "countryCode": "world",
       "season": "2026-27",
       "name": "SFC Dünya Paketi 2026-27",
-      "version": "1.0.0+9d1fff65",
+      "version": "1.0.0+31d298d3",
       "countries": [
         "at",
         "be",
@@ -635,14 +635,16 @@
       "stats": {
         "clubs": 3619,
         "players": 62147,
-        "photos": 24556
+        "photos": 24556,
+        "leagueLogos": 70,
+        "cupLogos": 20
       },
       "core": {
         "file": "world-2026-27-core.json.gz",
-        "bytes": 5444088
+        "bytes": 5445292
       },
       "images": null,
-      "updatedAt": "2026-09-05T08:49:43.568Z"
+      "updatedAt": "2026-09-06T06:11:01.378Z"
     },
     {
       "id": "at-2026-27",
@@ -650,7 +652,7 @@
       "countryCode": "at",
       "season": "2026-27",
       "name": "Avusturya Paketi 2026-27",
-      "version": "0.1.0+74c98e03",
+      "version": "0.1.0+20a81fbb",
       "leagues": [
         {
           "id": "2-liga",
@@ -687,16 +689,18 @@
         "clubs": 293,
         "clubsWithSquad": 233,
         "players": 5687,
-        "photos": 675
+        "photos": 675,
+        "leagueLogos": 2,
+        "cupLogos": 1
       },
       "core": {
         "file": "at-2026-27-core.json.gz",
-        "bytes": 475833
+        "bytes": 475890
       },
       "images": {
         "file": "at-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/at-2026-27-images.tar",
-        "bytes": 20047872,
+        "bytes": 20161024,
         "optional": true
       },
       "updatedAt": "2026-08-17T16:20:44.000Z"
@@ -707,7 +711,7 @@
       "countryCode": "be",
       "season": "2026-27",
       "name": "Belçika Paketi 2026-27",
-      "version": "0.1.0+94749cbb",
+      "version": "0.1.0+14538105",
       "leagues": [
         {
           "id": "challenger-pro-league",
@@ -744,16 +748,18 @@
         "clubs": 115,
         "clubsWithSquad": 82,
         "players": 2118,
-        "photos": 1051
+        "photos": 1051,
+        "leagueLogos": 2,
+        "cupLogos": 1
       },
       "core": {
         "file": "be-2026-27-core.json.gz",
-        "bytes": 193080
+        "bytes": 193129
       },
       "images": {
         "file": "be-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/be-2026-27-images.tar",
-        "bytes": 26720768,
+        "bytes": 26787328,
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
@@ -764,7 +770,7 @@
       "countryCode": "ch",
       "season": "2026-27",
       "name": "İsviçre Paketi 2026-27",
-      "version": "0.1.0+b3b3e403",
+      "version": "0.1.0+f7244a43",
       "leagues": [
         {
           "id": "1-liga-classic",
@@ -801,16 +807,18 @@
         "clubs": 158,
         "clubsWithSquad": 88,
         "players": 2312,
-        "photos": 510
+        "photos": 510,
+        "leagueLogos": 5,
+        "cupLogos": 1
       },
       "core": {
         "file": "ch-2026-27-core.json.gz",
-        "bytes": 208135
+        "bytes": 208201
       },
       "images": {
         "file": "ch-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/ch-2026-27-images.tar",
-        "bytes": 8056320,
+        "bytes": 8139776,
         "optional": true
       },
       "updatedAt": "2026-08-17T00:00:00.000Z"
@@ -821,7 +829,7 @@
       "countryCode": "cz",
       "season": "2026-27",
       "name": "Çekya Paketi 2026-27",
-      "version": "0.1.0+cfcc11b0",
+      "version": "0.1.0+25febfa2",
       "leagues": [
         {
           "id": "cfl-msfl",
@@ -858,16 +866,18 @@
         "clubs": 190,
         "clubsWithSquad": 136,
         "players": 3526,
-        "photos": 675
+        "photos": 675,
+        "leagueLogos": 3,
+        "cupLogos": 1
       },
       "core": {
         "file": "cz-2026-27-core.json.gz",
-        "bytes": 278958
+        "bytes": 279013
       },
       "images": {
         "file": "cz-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/cz-2026-27-images.tar",
-        "bytes": 33829888,
+        "bytes": 33900544,
         "optional": true
       },
       "updatedAt": "2026-08-17T00:00:00.000Z"
@@ -878,7 +888,7 @@
       "countryCode": "de",
       "season": "2026-27",
       "name": "Almanya Paketi 2026-27",
-      "version": "0.1.0+5f65032a",
+      "version": "0.1.0+cd7d62fa",
       "leagues": [
         {
           "id": "2-bundesliga",
@@ -915,16 +925,18 @@
         "clubs": 237,
         "clubsWithSquad": 147,
         "players": 3999,
-        "photos": 1909
+        "photos": 1909,
+        "leagueLogos": 3,
+        "cupLogos": 1
       },
       "core": {
         "file": "de-2026-27-core.json.gz",
-        "bytes": 368470
+        "bytes": 368531
       },
       "images": {
         "file": "de-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/de-2026-27-images.tar",
-        "bytes": 31685632,
+        "bytes": 31777280,
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
@@ -935,7 +947,7 @@
       "countryCode": "dk",
       "season": "2026-27",
       "name": "Danimarka Paketi 2026-27",
-      "version": "0.1.0+1992aab7",
+      "version": "0.1.0+35f90254",
       "leagues": [
         {
           "id": "1-division",
@@ -972,16 +984,18 @@
         "clubs": 88,
         "clubsWithSquad": 48,
         "players": 1285,
-        "photos": 385
+        "photos": 385,
+        "leagueLogos": 4,
+        "cupLogos": 1
       },
       "core": {
         "file": "dk-2026-27-core.json.gz",
-        "bytes": 116709
+        "bytes": 116773
       },
       "images": {
         "file": "dk-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/dk-2026-27-images.tar",
-        "bytes": 14128128,
+        "bytes": 14166016,
         "optional": true
       },
       "updatedAt": "2026-08-17T00:00:00.000Z"
@@ -992,7 +1006,7 @@
       "countryCode": "en",
       "season": "2026-27",
       "name": "İngiltere Paketi 2026-27",
-      "version": "0.1.0+870d3310",
+      "version": "0.1.0+a97899bc",
       "leagues": [
         {
           "id": "championship",
@@ -1029,16 +1043,18 @@
         "clubs": 116,
         "clubsWithSquad": 116,
         "players": 3141,
-        "photos": 2525
+        "photos": 2525,
+        "leagueLogos": 5,
+        "cupLogos": 1
       },
       "core": {
         "file": "en-2026-27-core.json.gz",
-        "bytes": 288978
+        "bytes": 289044
       },
       "images": {
         "file": "en-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/en-2026-27-images.tar",
-        "bytes": 40762880,
+        "bytes": 40898560,
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
@@ -1049,7 +1065,7 @@
       "countryCode": "es",
       "season": "2026-27",
       "name": "İspanya Paketi 2026-27",
-      "version": "0.1.0+3705d256",
+      "version": "0.1.0+12d58633",
       "leagues": [
         {
           "id": "laliga-2",
@@ -1086,16 +1102,18 @@
         "clubs": 262,
         "clubsWithSquad": 172,
         "players": 4111,
-        "photos": 1651
+        "photos": 1651,
+        "leagueLogos": 4,
+        "cupLogos": 1
       },
       "core": {
         "file": "es-2026-27-core.json.gz",
-        "bytes": 363678
+        "bytes": 363744
       },
       "images": {
         "file": "es-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/es-2026-27-images.tar",
-        "bytes": 47123968,
+        "bytes": 47245824,
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
@@ -1106,7 +1124,7 @@
       "countryCode": "fr",
       "season": "2026-27",
       "name": "Fransa Paketi 2026-27",
-      "version": "0.1.0+b8cd282e",
+      "version": "0.1.0+9c15a0f7",
       "leagues": [
         {
           "id": "ligue-1",
@@ -1143,16 +1161,18 @@
         "clubs": 186,
         "clubsWithSquad": 102,
         "players": 2547,
-        "photos": 1731
+        "photos": 1731,
+        "leagueLogos": 5,
+        "cupLogos": 1
       },
       "core": {
         "file": "fr-2026-27-core.json.gz",
-        "bytes": 246097
+        "bytes": 246164
       },
       "images": {
         "file": "fr-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/fr-2026-27-images.tar",
-        "bytes": 51829760,
+        "bytes": 51911168,
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
@@ -1163,7 +1183,7 @@
       "countryCode": "gr",
       "season": "2026-27",
       "name": "Yunanistan Paketi 2026-27",
-      "version": "0.1.0+859fb6e3",
+      "version": "0.1.0+df0ef272",
       "leagues": [
         {
           "id": "delta-ethniki",
@@ -1200,16 +1220,18 @@
         "clubs": 130,
         "clubsWithSquad": 98,
         "players": 2145,
-        "photos": 953
+        "photos": 953,
+        "leagueLogos": 2,
+        "cupLogos": 1
       },
       "core": {
         "file": "gr-2026-27-core.json.gz",
-        "bytes": 177904
+        "bytes": 177962
       },
       "images": {
         "file": "gr-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/gr-2026-27-images.tar",
-        "bytes": 37234688,
+        "bytes": 37297152,
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
@@ -1220,7 +1242,7 @@
       "countryCode": "hr",
       "season": "2026-27",
       "name": "Hırvatistan Paketi 2026-27",
-      "version": "0.1.0+eef90a10",
+      "version": "0.1.0+16458454",
       "leagues": [
         {
           "id": "cetvrta-nl",
@@ -1257,16 +1279,18 @@
         "clubs": 138,
         "clubsWithSquad": 90,
         "players": 2638,
-        "photos": 716
+        "photos": 716,
+        "leagueLogos": 2,
+        "cupLogos": 1
       },
       "core": {
         "file": "hr-2026-27-core.json.gz",
-        "bytes": 215153
+        "bytes": 215224
       },
       "images": {
         "file": "hr-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/hr-2026-27-images.tar",
-        "bytes": 20475392,
+        "bytes": 20512256,
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
@@ -1277,7 +1301,7 @@
       "countryCode": "it",
       "season": "2026-27",
       "name": "İtalya Paketi 2026-27",
-      "version": "0.1.0+629acf21",
+      "version": "0.1.0+91ba3df0",
       "leagues": [
         {
           "id": "eccellenza",
@@ -1314,16 +1338,18 @@
         "clubs": 280,
         "clubsWithSquad": 190,
         "players": 5364,
-        "photos": 2474
+        "photos": 2474,
+        "leagueLogos": 4,
+        "cupLogos": 1
       },
       "core": {
         "file": "it-2026-27-core.json.gz",
-        "bytes": 467047
+        "bytes": 467111
       },
       "images": {
         "file": "it-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/it-2026-27-images.tar",
-        "bytes": 50610176,
+        "bytes": 50697728,
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
@@ -1334,7 +1360,7 @@
       "countryCode": "nl",
       "season": "2026-27",
       "name": "Hollanda Paketi 2026-27",
-      "version": "0.1.0+991fb902",
+      "version": "0.1.0+f0b7214a",
       "leagues": [
         {
           "id": "derde-divisie",
@@ -1371,16 +1397,18 @@
         "clubs": 148,
         "clubsWithSquad": 92,
         "players": 2404,
-        "photos": 1164
+        "photos": 1164,
+        "leagueLogos": 4,
+        "cupLogos": 1
       },
       "core": {
         "file": "nl-2026-27-core.json.gz",
-        "bytes": 217774
+        "bytes": 217837
       },
       "images": {
         "file": "nl-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/nl-2026-27-images.tar",
-        "bytes": 22261248,
+        "bytes": 22346240,
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
@@ -1391,7 +1419,7 @@
       "countryCode": "no",
       "season": "2026-27",
       "name": "Norveç Paketi 2026-27",
-      "version": "0.1.0+bd529d23",
+      "version": "0.1.0+523c5cec",
       "leagues": [
         {
           "id": "4-divisjon",
@@ -1428,16 +1456,18 @@
         "clubs": 357,
         "clubsWithSquad": 144,
         "players": 4274,
-        "photos": 511
+        "photos": 511,
+        "leagueLogos": 4,
+        "cupLogos": 1
       },
       "core": {
         "file": "no-2026-27-core.json.gz",
-        "bytes": 378385
+        "bytes": 378444
       },
       "images": {
         "file": "no-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/no-2026-27-images.tar",
-        "bytes": 8976896,
+        "bytes": 9047552,
         "optional": true
       },
       "updatedAt": "2026-08-17T00:00:00.000Z"
@@ -1448,7 +1478,7 @@
       "countryCode": "pl",
       "season": "2026-27",
       "name": "Polonya Paketi 2026-27",
-      "version": "0.1.0+2e6328bb",
+      "version": "0.1.0+fdf2288b",
       "leagues": [
         {
           "id": "ekstraklasa",
@@ -1485,16 +1515,18 @@
         "clubs": 180,
         "clubsWithSquad": 126,
         "players": 3554,
-        "photos": 906
+        "photos": 906,
+        "leagueLogos": 4,
+        "cupLogos": 1
       },
       "core": {
         "file": "pl-2026-27-core.json.gz",
-        "bytes": 294409
+        "bytes": 294473
       },
       "images": {
         "file": "pl-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/pl-2026-27-images.tar",
-        "bytes": 13700608,
+        "bytes": 13777920,
         "optional": true
       },
       "updatedAt": "2026-08-17T00:00:00.000Z"
@@ -1505,7 +1537,7 @@
       "countryCode": "pt",
       "season": "2026-27",
       "name": "Portekiz Paketi 2026-27",
-      "version": "0.1.0+9ba8f83c",
+      "version": "0.1.0+a73dfb21",
       "leagues": [
         {
           "id": "campeonato-de-portugal",
@@ -1542,16 +1574,18 @@
         "clubs": 172,
         "clubsWithSquad": 120,
         "players": 3397,
-        "photos": 1162
+        "photos": 1162,
+        "leagueLogos": 4,
+        "cupLogos": 1
       },
       "core": {
         "file": "pt-2026-27-core.json.gz",
-        "bytes": 299251
+        "bytes": 299316
       },
       "images": {
         "file": "pt-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/pt-2026-27-images.tar",
-        "bytes": 26282496,
+        "bytes": 26388992,
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
@@ -1562,7 +1596,7 @@
       "countryCode": "sc",
       "season": "2026-27",
       "name": "İskoçya Paketi 2026-27",
-      "version": "0.1.0+b370920d",
+      "version": "0.1.0+0406aa4f",
       "leagues": [
         {
           "id": "championship-sc",
@@ -1599,16 +1633,18 @@
         "clubs": 93,
         "clubsWithSquad": 42,
         "players": 1050,
-        "photos": 407
+        "photos": 407,
+        "leagueLogos": 4,
+        "cupLogos": 1
       },
       "core": {
         "file": "sc-2026-27-core.json.gz",
-        "bytes": 104223
+        "bytes": 104281
       },
       "images": {
         "file": "sc-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/sc-2026-27-images.tar",
-        "bytes": 10765824,
+        "bytes": 10862592,
         "optional": true
       },
       "updatedAt": "2026-08-17T00:00:00.000Z"
@@ -1619,7 +1655,7 @@
       "countryCode": "se",
       "season": "2026-27",
       "name": "İsveç Paketi 2026-27",
-      "version": "0.1.0+55a3af3b",
+      "version": "0.1.0+10fd071d",
       "leagues": [
         {
           "id": "allsvenskan",
@@ -1656,16 +1692,18 @@
         "clubs": 232,
         "clubsWithSquad": 136,
         "players": 3103,
-        "photos": 823
+        "photos": 823,
+        "leagueLogos": 2,
+        "cupLogos": 1
       },
       "core": {
         "file": "se-2026-27-core.json.gz",
-        "bytes": 271757
+        "bytes": 271810
       },
       "images": {
         "file": "se-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/se-2026-27-images.tar",
-        "bytes": 25837568,
+        "bytes": 25930240,
         "optional": true
       },
       "updatedAt": "2026-08-16T00:00:00.000Z"
@@ -1676,7 +1714,7 @@
       "countryCode": "tr",
       "season": "2026-27",
       "name": "Türkiye Paketi 2026-27",
-      "version": "0.1.0+f85ea16c",
+      "version": "0.1.0+d6dedf1d",
       "leagues": [
         {
           "id": "1-lig",
@@ -1713,16 +1751,18 @@
         "clubs": 145,
         "clubsWithSquad": 127,
         "players": 3961,
-        "photos": 3483
+        "photos": 3483,
+        "leagueLogos": 4,
+        "cupLogos": 1
       },
       "core": {
         "file": "tr-2026-27-core.json.gz",
-        "bytes": 362130
+        "bytes": 362204
       },
       "images": {
         "file": "tr-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/tr-2026-27-images.tar",
-        "bytes": 111211520,
+        "bytes": 111268352,
         "optional": true
       },
       "updatedAt": "2026-08-15T22:24:44.217Z"
@@ -1733,7 +1773,7 @@
       "countryCode": "ua",
       "season": "2026-27",
       "name": "Ukrayna Paketi 2026-27",
-      "version": "0.1.0+d8de2746",
+      "version": "0.1.0+d67d9729",
       "leagues": [
         {
           "id": "amatorska-liha",
@@ -1770,16 +1810,18 @@
         "clubs": 99,
         "clubsWithSquad": 61,
         "players": 1531,
-        "photos": 845
+        "photos": 845,
+        "leagueLogos": 3,
+        "cupLogos": 1
       },
       "core": {
         "file": "ua-2026-27-core.json.gz",
-        "bytes": 129626
+        "bytes": 129686
       },
       "images": {
         "file": "ua-2026-27-images.tar",
         "url": "https://github.com/hkonya/sfc-data-packs/releases/download/v2026-27/ua-2026-27-images.tar",
-        "bytes": 10172416,
+        "bytes": 10251776,
         "optional": true
       },
       "updatedAt": "2026-08-17T14:44:21.906Z"
