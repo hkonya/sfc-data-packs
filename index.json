@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-06T06:11:02.820Z",
+  "generatedAt": "2026-09-27T21:26:16.928Z",
   "packs": [
     {
       "id": "world-2026-27",
@@ -7,7 +7,7 @@
       "countryCode": "world",
       "season": "2026-27",
       "name": "SFC Dünya Paketi 2026-27",
-      "version": "1.0.0+31d298d3",
+      "version": "1.0.0+95ee68d3",
       "countries": [
         "at",
         "be",
@@ -634,17 +634,17 @@
       ],
       "stats": {
         "clubs": 3619,
-        "players": 62147,
-        "photos": 24556,
+        "players": 63036,
+        "photos": 24218,
         "leagueLogos": 70,
         "cupLogos": 20
       },
       "core": {
         "file": "world-2026-27-core.json.gz",
-        "bytes": 5445292
+        "bytes": 5528633
       },
       "images": null,
-      "updatedAt": "2026-09-06T06:11:01.378Z"
+      "updatedAt": "2026-09-27T21:26:15.519Z"
     },
     {
       "id": "at-2026-27",
@@ -652,7 +652,7 @@
       "countryCode": "at",
       "season": "2026-27",
       "name": "Avusturya Paketi 2026-27",
-      "version": "0.1.0+20a81fbb",
+      "version": "0.1.0+72059685",
       "leagues": [
         {
           "id": "2-liga",
@@ -688,14 +688,14 @@
       "stats": {
         "clubs": 293,
         "clubsWithSquad": 233,
-        "players": 5687,
+        "players": 5794,
         "photos": 675,
         "leagueLogos": 2,
         "cupLogos": 1
       },
       "core": {
         "file": "at-2026-27-core.json.gz",
-        "bytes": 475890
+        "bytes": 484795
       },
       "images": {
         "file": "at-2026-27-images.tar",
@@ -711,7 +711,7 @@
       "countryCode": "be",
       "season": "2026-27",
       "name": "Belçika Paketi 2026-27",
-      "version": "0.1.0+14538105",
+      "version": "0.1.0+c3a5f889",
       "leagues": [
         {
           "id": "challenger-pro-league",
@@ -747,14 +747,14 @@
       "stats": {
         "clubs": 115,
         "clubsWithSquad": 82,
-        "players": 2118,
-        "photos": 1051,
+        "players": 2145,
+        "photos": 1038,
         "leagueLogos": 2,
         "cupLogos": 1
       },
       "core": {
         "file": "be-2026-27-core.json.gz",
-        "bytes": 193129
+        "bytes": 195846
       },
       "images": {
         "file": "be-2026-27-images.tar",
@@ -770,7 +770,7 @@
       "countryCode": "ch",
       "season": "2026-27",
       "name": "İsviçre Paketi 2026-27",
-      "version": "0.1.0+f7244a43",
+      "version": "0.1.0+c5ecff11",
       "leagues": [
         {
           "id": "1-liga-classic",
@@ -806,14 +806,14 @@
       "stats": {
         "clubs": 158,
         "clubsWithSquad": 88,
-        "players": 2312,
-        "photos": 510,
+        "players": 2360,
+        "photos": 505,
         "leagueLogos": 5,
         "cupLogos": 1
       },
       "core": {
         "file": "ch-2026-27-core.json.gz",
-        "bytes": 208201
+        "bytes": 212886
       },
       "images": {
         "file": "ch-2026-27-images.tar",
@@ -829,7 +829,7 @@
       "countryCode": "cz",
       "season": "2026-27",
       "name": "Çekya Paketi 2026-27",
-      "version": "0.1.0+25febfa2",
+      "version": "0.1.0+f9719120",
       "leagues": [
         {
           "id": "cfl-msfl",
@@ -865,14 +865,14 @@
       "stats": {
         "clubs": 190,
         "clubsWithSquad": 136,
-        "players": 3526,
-        "photos": 675,
+        "players": 3484,
+        "photos": 660,
         "leagueLogos": 3,
         "cupLogos": 1
       },
       "core": {
         "file": "cz-2026-27-core.json.gz",
-        "bytes": 279013
+        "bytes": 277099
       },
       "images": {
         "file": "cz-2026-27-images.tar",
@@ -888,7 +888,7 @@
       "countryCode": "de",
       "season": "2026-27",
       "name": "Almanya Paketi 2026-27",
-      "version": "0.1.0+cd7d62fa",
+      "version": "0.1.0+7ab220d5",
       "leagues": [
         {
           "id": "2-bundesliga",
@@ -924,14 +924,14 @@
       "stats": {
         "clubs": 237,
         "clubsWithSquad": 147,
-        "players": 3999,
-        "photos": 1909,
+        "players": 4029,
+        "photos": 1901,
         "leagueLogos": 3,
         "cupLogos": 1
       },
       "core": {
         "file": "de-2026-27-core.json.gz",
-        "bytes": 368531
+        "bytes": 370161
       },
       "images": {
         "file": "de-2026-27-images.tar",
@@ -947,7 +947,7 @@
       "countryCode": "dk",
       "season": "2026-27",
       "name": "Danimarka Paketi 2026-27",
-      "version": "0.1.0+35f90254",
+      "version": "0.1.0+61cb638b",
       "leagues": [
         {
           "id": "1-division",
@@ -983,14 +983,14 @@
       "stats": {
         "clubs": 88,
         "clubsWithSquad": 48,
-        "players": 1285,
-        "photos": 385,
+        "players": 1305,
+        "photos": 381,
         "leagueLogos": 4,
         "cupLogos": 1
       },
       "core": {
         "file": "dk-2026-27-core.json.gz",
-        "bytes": 116773
+        "bytes": 118486
       },
       "images": {
         "file": "dk-2026-27-images.tar",
@@ -1006,7 +1006,7 @@
       "countryCode": "en",
       "season": "2026-27",
       "name": "İngiltere Paketi 2026-27",
-      "version": "0.1.0+a97899bc",
+      "version": "0.1.0+59dcb142",
       "leagues": [
         {
           "id": "championship",
@@ -1042,14 +1042,14 @@
       "stats": {
         "clubs": 116,
         "clubsWithSquad": 116,
-        "players": 3141,
-        "photos": 2525,
+        "players": 3164,
+        "photos": 2500,
         "leagueLogos": 5,
         "cupLogos": 1
       },
       "core": {
         "file": "en-2026-27-core.json.gz",
-        "bytes": 289044
+        "bytes": 291555
       },
       "images": {
         "file": "en-2026-27-images.tar",
@@ -1065,7 +1065,7 @@
       "countryCode": "es",
       "season": "2026-27",
       "name": "İspanya Paketi 2026-27",
-      "version": "0.1.0+12d58633",
+      "version": "0.1.0+2a89279f",
       "leagues": [
         {
           "id": "laliga-2",
@@ -1101,14 +1101,14 @@
       "stats": {
         "clubs": 262,
         "clubsWithSquad": 172,
-        "players": 4111,
-        "photos": 1651,
+        "players": 4228,
+        "photos": 1639,
         "leagueLogos": 4,
         "cupLogos": 1
       },
       "core": {
         "file": "es-2026-27-core.json.gz",
-        "bytes": 363744
+        "bytes": 372523
       },
       "images": {
         "file": "es-2026-27-images.tar",
@@ -1124,7 +1124,7 @@
       "countryCode": "fr",
       "season": "2026-27",
       "name": "Fransa Paketi 2026-27",
-      "version": "0.1.0+9c15a0f7",
+      "version": "0.1.0+17e13391",
       "leagues": [
         {
           "id": "ligue-1",
@@ -1160,14 +1160,14 @@
       "stats": {
         "clubs": 186,
         "clubsWithSquad": 102,
-        "players": 2547,
-        "photos": 1731,
+        "players": 2612,
+        "photos": 1719,
         "leagueLogos": 5,
         "cupLogos": 1
       },
       "core": {
         "file": "fr-2026-27-core.json.gz",
-        "bytes": 246164
+        "bytes": 252475
       },
       "images": {
         "file": "fr-2026-27-images.tar",
@@ -1183,7 +1183,7 @@
       "countryCode": "gr",
       "season": "2026-27",
       "name": "Yunanistan Paketi 2026-27",
-      "version": "0.1.0+df0ef272",
+      "version": "0.1.0+aa391b38",
       "leagues": [
         {
           "id": "delta-ethniki",
@@ -1219,14 +1219,14 @@
       "stats": {
         "clubs": 130,
         "clubsWithSquad": 98,
-        "players": 2145,
-        "photos": 953,
+        "players": 2168,
+        "photos": 939,
         "leagueLogos": 2,
         "cupLogos": 1
       },
       "core": {
         "file": "gr-2026-27-core.json.gz",
-        "bytes": 177962
+        "bytes": 180472
       },
       "images": {
         "file": "gr-2026-27-images.tar",
@@ -1242,7 +1242,7 @@
       "countryCode": "hr",
       "season": "2026-27",
       "name": "Hırvatistan Paketi 2026-27",
-      "version": "0.1.0+16458454",
+      "version": "0.1.0+11a589c7",
       "leagues": [
         {
           "id": "cetvrta-nl",
@@ -1278,14 +1278,14 @@
       "stats": {
         "clubs": 138,
         "clubsWithSquad": 90,
-        "players": 2638,
-        "photos": 716,
+        "players": 2658,
+        "photos": 703,
         "leagueLogos": 2,
         "cupLogos": 1
       },
       "core": {
         "file": "hr-2026-27-core.json.gz",
-        "bytes": 215224
+        "bytes": 217264
       },
       "images": {
         "file": "hr-2026-27-images.tar",
@@ -1301,7 +1301,7 @@
       "countryCode": "it",
       "season": "2026-27",
       "name": "İtalya Paketi 2026-27",
-      "version": "0.1.0+91ba3df0",
+      "version": "0.1.0+f0128ecb",
       "leagues": [
         {
           "id": "eccellenza",
@@ -1337,14 +1337,14 @@
       "stats": {
         "clubs": 280,
         "clubsWithSquad": 190,
-        "players": 5364,
-        "photos": 2474,
+        "players": 5488,
+        "photos": 2452,
         "leagueLogos": 4,
         "cupLogos": 1
       },
       "core": {
         "file": "it-2026-27-core.json.gz",
-        "bytes": 467111
+        "bytes": 477528
       },
       "images": {
         "file": "it-2026-27-images.tar",
@@ -1360,7 +1360,7 @@
       "countryCode": "nl",
       "season": "2026-27",
       "name": "Hollanda Paketi 2026-27",
-      "version": "0.1.0+f0b7214a",
+      "version": "0.1.0+f967cd2b",
       "leagues": [
         {
           "id": "derde-divisie",
@@ -1396,14 +1396,14 @@
       "stats": {
         "clubs": 148,
         "clubsWithSquad": 92,
-        "players": 2404,
-        "photos": 1164,
+        "players": 2443,
+        "photos": 1157,
         "leagueLogos": 4,
         "cupLogos": 1
       },
       "core": {
         "file": "nl-2026-27-core.json.gz",
-        "bytes": 217837
+        "bytes": 221200
       },
       "images": {
         "file": "nl-2026-27-images.tar",
@@ -1419,7 +1419,7 @@
       "countryCode": "no",
       "season": "2026-27",
       "name": "Norveç Paketi 2026-27",
-      "version": "0.1.0+523c5cec",
+      "version": "0.1.0+77e2863b",
       "leagues": [
         {
           "id": "4-divisjon",
@@ -1455,14 +1455,14 @@
       "stats": {
         "clubs": 357,
         "clubsWithSquad": 144,
-        "players": 4274,
-        "photos": 511,
+        "players": 4334,
+        "photos": 510,
         "leagueLogos": 4,
         "cupLogos": 1
       },
       "core": {
         "file": "no-2026-27-core.json.gz",
-        "bytes": 378444
+        "bytes": 384483
       },
       "images": {
         "file": "no-2026-27-images.tar",
@@ -1478,7 +1478,7 @@
       "countryCode": "pl",
       "season": "2026-27",
       "name": "Polonya Paketi 2026-27",
-      "version": "0.1.0+fdf2288b",
+      "version": "0.1.0+89e5a41c",
       "leagues": [
         {
           "id": "ekstraklasa",
@@ -1514,14 +1514,14 @@
       "stats": {
         "clubs": 180,
         "clubsWithSquad": 126,
-        "players": 3554,
-        "photos": 906,
+        "players": 3614,
+        "photos": 895,
         "leagueLogos": 4,
         "cupLogos": 1
       },
       "core": {
         "file": "pl-2026-27-core.json.gz",
-        "bytes": 294473
+        "bytes": 300409
       },
       "images": {
         "file": "pl-2026-27-images.tar",
@@ -1537,7 +1537,7 @@
       "countryCode": "pt",
       "season": "2026-27",
       "name": "Portekiz Paketi 2026-27",
-      "version": "0.1.0+a73dfb21",
+      "version": "0.1.0+77c890f7",
       "leagues": [
         {
           "id": "campeonato-de-portugal",
@@ -1573,14 +1573,14 @@
       "stats": {
         "clubs": 172,
         "clubsWithSquad": 120,
-        "players": 3397,
-        "photos": 1162,
+        "players": 3453,
+        "photos": 1136,
         "leagueLogos": 4,
         "cupLogos": 1
       },
       "core": {
         "file": "pt-2026-27-core.json.gz",
-        "bytes": 299316
+        "bytes": 304322
       },
       "images": {
         "file": "pt-2026-27-images.tar",
@@ -1596,7 +1596,7 @@
       "countryCode": "sc",
       "season": "2026-27",
       "name": "İskoçya Paketi 2026-27",
-      "version": "0.1.0+0406aa4f",
+      "version": "0.1.0+02390896",
       "leagues": [
         {
           "id": "championship-sc",
@@ -1632,14 +1632,14 @@
       "stats": {
         "clubs": 93,
         "clubsWithSquad": 42,
-        "players": 1050,
-        "photos": 407,
+        "players": 1061,
+        "photos": 402,
         "leagueLogos": 4,
         "cupLogos": 1
       },
       "core": {
         "file": "sc-2026-27-core.json.gz",
-        "bytes": 104281
+        "bytes": 105753
       },
       "images": {
         "file": "sc-2026-27-images.tar",
@@ -1655,7 +1655,7 @@
       "countryCode": "se",
       "season": "2026-27",
       "name": "İsveç Paketi 2026-27",
-      "version": "0.1.0+10fd071d",
+      "version": "0.1.0+625a06c5",
       "leagues": [
         {
           "id": "allsvenskan",
@@ -1691,14 +1691,14 @@
       "stats": {
         "clubs": 232,
         "clubsWithSquad": 136,
-        "players": 3103,
-        "photos": 823,
+        "players": 3109,
+        "photos": 816,
         "leagueLogos": 2,
         "cupLogos": 1
       },
       "core": {
         "file": "se-2026-27-core.json.gz",
-        "bytes": 271810
+        "bytes": 272477
       },
       "images": {
         "file": "se-2026-27-images.tar",
@@ -1714,7 +1714,7 @@
       "countryCode": "tr",
       "season": "2026-27",
       "name": "Türkiye Paketi 2026-27",
-      "version": "0.1.0+d6dedf1d",
+      "version": "0.1.0+59b1894b",
       "leagues": [
         {
           "id": "1-lig",
@@ -1750,14 +1750,14 @@
       "stats": {
         "clubs": 145,
         "clubsWithSquad": 127,
-        "players": 3961,
-        "photos": 3483,
+        "players": 4048,
+        "photos": 3359,
         "leagueLogos": 4,
         "cupLogos": 1
       },
       "core": {
         "file": "tr-2026-27-core.json.gz",
-        "bytes": 362204
+        "bytes": 372323
       },
       "images": {
         "file": "tr-2026-27-images.tar",
@@ -1773,7 +1773,7 @@
       "countryCode": "ua",
       "season": "2026-27",
       "name": "Ukrayna Paketi 2026-27",
-      "version": "0.1.0+d67d9729",
+      "version": "0.1.0+591e5b01",
       "leagues": [
         {
           "id": "amatorska-liha",
@@ -1809,14 +1809,14 @@
       "stats": {
         "clubs": 99,
         "clubsWithSquad": 61,
-        "players": 1531,
-        "photos": 845,
+        "players": 1539,
+        "photos": 831,
         "leagueLogos": 3,
         "cupLogos": 1
       },
       "core": {
         "file": "ua-2026-27-core.json.gz",
-        "bytes": 129686
+        "bytes": 130644
       },
       "images": {
         "file": "ua-2026-27-images.tar",
